@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T19:38:08.454Z",
-  "count": 189,
+  "generated_at": "2026-08-10T19:45:54.213Z",
+  "count": 194,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -1456,6 +1456,34 @@
       "update_check": "pending"
     },
     {
+      "folder": "KuroKratos@exp_bar",
+      "id": "exp_bar",
+      "title": "Exp Bar",
+      "author": "KuroKratos",
+      "summary": "A Gen 2 style experience bar under your Pokemon's status box, in both the classic and widescreen battle layouts.",
+      "version": "1.2.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "exp",
+        "bar",
+        "ui",
+        "battle",
+        "gen2"
+      ],
+      "repo": "https://github.com/KuroKratos/exp_bar",
+      "github": "KuroKratos/exp_bar",
+      "api": 2,
+      "profile": "content",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "thumbnail": null,
+      "description_url": "data/mods/KuroKratos@exp_bar/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "ShaneMcGovernIE@exp_share",
       "id": "exp_share",
       "title": "Exp Share (Gen 1 / Gen 5+ styles)",
@@ -1699,6 +1727,34 @@
       "description_url": "data/mods/FAFF0x@free_rare_candy/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "KuroKratos@full_dex",
+      "id": "full_dex",
+      "title": "Full Dex",
+      "author": "KuroKratos",
+      "summary": "Trade evolutions happen by level instead, and every species locked behind a version or a one-off choice gets a place in the wild.",
+      "version": "1.2.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "pokedex",
+        "trade-evolution",
+        "wild",
+        "151",
+        "yellow"
+      ],
+      "repo": "https://github.com/KuroKratos/full_dex",
+      "github": "KuroKratos/full_dex",
+      "api": 2,
+      "profile": "overhaul",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "thumbnail": null,
+      "description_url": "data/mods/KuroKratos@full_dex/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "eduardocalafell@gen2_dex",
@@ -2415,6 +2471,37 @@
       "update_check": "pending"
     },
     {
+      "folder": "KuroKratos@level_caps",
+      "id": "level_caps",
+      "title": "Level Caps",
+      "author": "KuroKratos",
+      "summary": "Caps party levels at the next gym leader, Elite Four member or Champion, read live from their real rosters.",
+      "version": "1.3.0",
+      "categories": [
+        "GAMEPLAY",
+        "BALANCE"
+      ],
+      "tags": [
+        "level-cap",
+        "gym",
+        "elite-four",
+        "nuzlocke",
+        "balance"
+      ],
+      "repo": "https://github.com/KuroKratos/level_caps",
+      "github": "KuroKratos/level_caps",
+      "api": 2,
+      "profile": "overhaul",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/KuroKratos@level_caps/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "magatsu64@mega_evolution",
       "id": "mega_evolution",
       "title": "Mega Evolution",
@@ -2593,6 +2680,39 @@
       "profile": "content",
       "thumbnail": null,
       "description_url": "data/mods/piftee@modern_party_ui/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "KuroKratos@modern_qol",
+      "id": "modern_qol",
+      "title": "Modern QoL",
+      "author": "KuroKratos",
+      "summary": "Eight later-gen conveniences behind toggles (all off by default): party EXP, capture EXP, critical captures, reusable TMs, forgettable HMs, run button, harmless field poison, balanced encounters.",
+      "version": "1.5.0",
+      "categories": [
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "qol",
+        "exp-share",
+        "critical-capture",
+        "tms",
+        "hms",
+        "run",
+        "poison"
+      ],
+      "repo": "https://github.com/KuroKratos/modern_qol",
+      "github": "KuroKratos/modern_qol",
+      "api": 2,
+      "profile": "overhaul",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/KuroKratos@modern_qol/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -3096,6 +3216,35 @@
       "description_url": "data/mods/FAFF0x@new_sprites/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "KuroKratos@new_types",
+      "id": "new_types",
+      "title": "New Types",
+      "author": "KuroKratos",
+      "summary": "Adds the DARK, STEEL and FAIRY types with the modern chart, the official retypings, their moves, and ways to learn them.",
+      "version": "1.1.0",
+      "categories": [
+        "BALANCE",
+        "CONTENT"
+      ],
+      "tags": [
+        "types",
+        "dark",
+        "steel",
+        "fairy",
+        "moves",
+        "chart"
+      ],
+      "repo": "https://github.com/KuroKratos/new_types",
+      "github": "KuroKratos/new_types",
+      "api": 2,
+      "profile": "overhaul",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "thumbnail": null,
+      "description_url": "data/mods/KuroKratos@new_types/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "FAFF0x@nickname_changer",
@@ -3824,16 +3973,9 @@
       "id": "recomp_cartographer",
       "title": "Recomp Cartographer",
       "author": "Sedatb23",
-      "summary": "Cartography / map-related tooling or visualization for Gen1Recomp.",
-      "version": "1.0.0",
+      "version": "0.2.0",
       "categories": [
-        "TOOL",
-        "UI"
-      ],
-      "tags": [
-        "map",
-        "cartographer",
-        "tool"
+        "ART"
       ],
       "repo": "https://github.com/Sedatb23/recomp_cartographer",
       "github": "Sedatb23/recomp_cartographer",
@@ -3841,6 +3983,7 @@
       "profile": "content",
       "thumbnail": null,
       "description_url": "data/mods/Sedatb23@recomp_cartographer/description.md",
+      "summary": "This mod allows dumping of the maps into tiled.",
       "latest": null,
       "update_check": "pending"
     },

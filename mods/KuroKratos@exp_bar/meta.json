@@ -1,0 +1,23 @@
+{
+  "id": "exp_bar",
+  "title": "Exp Bar",
+  "author": "KuroKratos",
+  "summary": "A Gen 2 style experience bar under your Pokemon's status box, in both the classic and widescreen battle layouts.",
+  "version": "1.2.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "exp",
+    "bar",
+    "ui",
+    "battle",
+    "gen2"
+  ],
+  "repo": "https://github.com/KuroKratos/exp_bar",
+  "github": "KuroKratos/exp_bar",
+  "api": 2,
+  "profile": "content",
+  "game_version": ">=0.0.0-0 <2.0.0"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "modern_qol",
+  "title": "Modern QoL",
+  "author": "KuroKratos",
+  "summary": "Eight later-gen conveniences behind toggles (all off by default): party EXP, capture EXP, critical captures, reusable TMs, forgettable HMs, run button, harmless field poison, balanced encounters.",
+  "version": "1.5.0",
+  "categories": [
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "qol",
+    "exp-share",
+    "critical-capture",
+    "tms",
+    "hms",
+    "run",
+    "poison"
+  ],
+  "repo": "https://github.com/KuroKratos/modern_qol",
+  "github": "KuroKratos/modern_qol",
+  "api": 2,
+  "profile": "overhaul",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ]
+}

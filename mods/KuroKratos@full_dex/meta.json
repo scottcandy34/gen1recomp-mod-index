@@ -1,0 +1,23 @@
+{
+  "id": "full_dex",
+  "title": "Full Dex",
+  "author": "KuroKratos",
+  "summary": "Trade evolutions happen by level instead, and every species locked behind a version or a one-off choice gets a place in the wild.",
+  "version": "1.2.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "pokedex",
+    "trade-evolution",
+    "wild",
+    "151",
+    "yellow"
+  ],
+  "repo": "https://github.com/KuroKratos/full_dex",
+  "github": "KuroKratos/full_dex",
+  "api": 2,
+  "profile": "overhaul",
+  "game_version": ">=0.0.0-0 <2.0.0"
+}

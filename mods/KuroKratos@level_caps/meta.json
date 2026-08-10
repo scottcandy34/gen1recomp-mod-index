@@ -1,0 +1,26 @@
+{
+  "id": "level_caps",
+  "title": "Level Caps",
+  "author": "KuroKratos",
+  "summary": "Caps party levels at the next gym leader, Elite Four member or Champion, read live from their real rosters.",
+  "version": "1.3.0",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "tags": [
+    "level-cap",
+    "gym",
+    "elite-four",
+    "nuzlocke",
+    "balance"
+  ],
+  "repo": "https://github.com/KuroKratos/level_caps",
+  "github": "KuroKratos/level_caps",
+  "api": 2,
+  "profile": "overhaul",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ]
+}

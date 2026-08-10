@@ -1,0 +1,24 @@
+{
+  "id": "new_types",
+  "title": "New Types",
+  "author": "KuroKratos",
+  "summary": "Adds the DARK, STEEL and FAIRY types with the modern chart, the official retypings, their moves, and ways to learn them.",
+  "version": "1.1.0",
+  "categories": [
+    "BALANCE",
+    "CONTENT"
+  ],
+  "tags": [
+    "types",
+    "dark",
+    "steel",
+    "fairy",
+    "moves",
+    "chart"
+  ],
+  "repo": "https://github.com/KuroKratos/new_types",
+  "github": "KuroKratos/new_types",
+  "api": 2,
+  "profile": "overhaul",
+  "game_version": ">=0.0.0-0 <2.0.0"
+}
