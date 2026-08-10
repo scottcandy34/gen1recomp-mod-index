@@ -1,0 +1,29 @@
+{
+  "id": "DRAMATIC_SHAPE",
+  "title": "Dramatic Shape Voxel Mod",
+  "author": "scottcandy34",
+  "summary": "Draws the overworld as a 3D voxel diorama. Supports free-roam 1st/3rd person cameras, 3D battles (including Stadium models), water reflections, shadows, and experimental VR.",
+  "version": "1.8.2",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "voxel",
+    "3d",
+    "overworld",
+    "camera",
+    "stadium",
+    "vr",
+    "diorama",
+    "graphics"
+  ],
+  "repo": "https://github.com/scottcandy34/DramaticShapeVoxelMod-latest",
+  "github": "scottcandy34/DramaticShapeVoxelMod-latest",
+  "api": 2,
+  "profile": "content",
+  "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "license": "Custom (see README \u2014 redistribution restricted after v1.6.0)"
+}

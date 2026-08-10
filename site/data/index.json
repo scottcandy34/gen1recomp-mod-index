@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T20:00:05.701Z",
-  "count": 194,
+  "generated_at": "2026-08-10T20:38:35.405Z",
+  "count": 193,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -510,15 +510,15 @@
       "thumbnail": null,
       "description_url": "data/mods/piftee@battle_info_hud/description.md",
       "latest": {
-        "version": "0.7.0",
-        "tag": "v0.7.0",
-        "name": "Battle Info HUD 0.7.0",
+        "version": "0.8.1",
+        "tag": "v0.8.1",
+        "name": "Battle Info HUD 0.8.1",
         "prerelease": false,
-        "published_at": "2026-08-09T07:17:10Z",
+        "published_at": "2026-08-10T20:29:20Z",
         "zip": {
-          "name": "Battle-Info-HUD-0.7.0.zip",
-          "url": "https://github.com/piftee/gen1recomp-battle-info-hud/releases/download/v0.7.0/Battle-Info-HUD-0.7.0.zip",
-          "size": 13506
+          "name": "Battle-Info-HUD-0.8.1.zip",
+          "url": "https://github.com/piftee/gen1recomp-battle-info-hud/releases/download/v0.8.1/Battle-Info-HUD-0.8.1.zip",
+          "size": 15388
         }
       },
       "update_check": "ok"
@@ -1528,6 +1528,51 @@
       "update_check": "ok"
     },
     {
+      "folder": "scottcandy34@DRAMATIC_SHAPE",
+      "id": "DRAMATIC_SHAPE",
+      "title": "Dramatic Shape Voxel Mod",
+      "author": "scottcandy34",
+      "summary": "Draws the overworld as a 3D voxel diorama. Supports free-roam 1st/3rd person cameras, 3D battles (including Stadium models), water reflections, shadows, and experimental VR.",
+      "version": "1.8.2",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "voxel",
+        "3d",
+        "overworld",
+        "camera",
+        "stadium",
+        "vr",
+        "diorama",
+        "graphics"
+      ],
+      "repo": "https://github.com/scottcandy34/DramaticShapeVoxelMod-latest",
+      "github": "scottcandy34/DramaticShapeVoxelMod-latest",
+      "api": 2,
+      "profile": "content",
+      "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "license": "Custom (see README — redistribution restricted after v1.6.0)",
+      "thumbnail": null,
+      "description_url": "data/mods/scottcandy34@DRAMATIC_SHAPE/description.md",
+      "latest": {
+        "version": "1.8.2",
+        "tag": "v1.8.2",
+        "name": "1.8.2",
+        "prerelease": false,
+        "published_at": "2026-08-10T14:37:43Z",
+        "zip": {
+          "name": "DRAMATIC_SHAPE-1.8.2.zip",
+          "url": "https://github.com/scottcandy34/DramaticShapeVoxelMod-latest/releases/download/v1.8.2/DRAMATIC_SHAPE-1.8.2.zip",
+          "size": 8380403
+        }
+      },
+      "update_check": "ok"
+    },
+    {
       "folder": "MFRTechConsult@DRAMATIC_SKY_RIDE",
       "id": "DRAMATIC_SKY_RIDE",
       "title": "Dramatic Sky Ride",
@@ -2081,42 +2126,6 @@
           "name": "fakemons-0.1.1.zip",
           "url": "https://github.com/eduardocalafell/gen1recomp-fakemons/releases/download/v0.1.1/fakemons-0.1.1.zip",
           "size": 18702
-        }
-      },
-      "update_check": "ok"
-    },
-    {
-      "folder": "Razor1993-Real@flying_overhaul",
-      "id": "flying_overhaul",
-      "title": "Flying Overhaul",
-      "author": "Razor1993-Real",
-      "summary": "Makes Fly stop opening the town map. You climb onto the bird and freely fly across Kanto yourself.",
-      "version": "1.0.0",
-      "categories": [
-        "GAMEPLAY",
-        "QOL"
-      ],
-      "tags": [
-        "fly",
-        "overworld",
-        "free-fly"
-      ],
-      "repo": "https://github.com/Razor1993-Real/FlyingOverhaul",
-      "github": "Razor1993-Real/FlyingOverhaul",
-      "api": 2,
-      "profile": "content",
-      "thumbnail": null,
-      "description_url": "data/mods/Razor1993-Real@flying_overhaul/description.md",
-      "latest": {
-        "version": "1.0.4",
-        "tag": "v1.0.4",
-        "name": "1.0.4",
-        "prerelease": false,
-        "published_at": "2026-08-07T22:33:57Z",
-        "zip": {
-          "name": "FLYING_OVERHAUL-1.0.4.zip",
-          "url": "https://github.com/Razor1993-Real/FlyingOverhaul/releases/download/v1.0.4/FLYING_OVERHAUL-1.0.4.zip",
-          "size": 68475
         }
       },
       "update_check": "ok"
@@ -3086,15 +3095,15 @@
       "thumbnail": null,
       "description_url": "data/mods/redelpedron@kanto_companion_lite/description.md",
       "latest": {
-        "version": "2.1.37",
-        "tag": "v2.1.37",
-        "name": "v2.1.37",
+        "version": "2.1.40",
+        "tag": "v2.1.40",
+        "name": "v2.1.40",
         "prerelease": false,
-        "published_at": "2026-08-10T11:22:58Z",
+        "published_at": "2026-08-10T20:06:29Z",
         "zip": {
           "name": "Kanto.Companion.Lite.zip",
-          "url": "https://github.com/redelpedron/Kanto-Companion-Lite/releases/download/v2.1.37/Kanto.Companion.Lite.zip",
-          "size": 71603
+          "url": "https://github.com/redelpedron/Kanto-Companion-Lite/releases/download/v2.1.40/Kanto.Companion.Lite.zip",
+          "size": 73299
         }
       },
       "update_check": "ok"
@@ -4420,7 +4429,7 @@
       "id": "overworld_encounters",
       "title": "Overworld Wild Encounters",
       "author": "Gamecorner_033",
-      "version": "0.0.5",
+      "version": "0.0.7",
       "categories": [
         "GAMEPLAY",
         "CONTENT",
@@ -4429,7 +4438,7 @@
       ],
       "repo": "https://github.com/gamecorner-033/Gen1PC-OverworldEncounters",
       "github": "gamecorner-033/Gen1PC-OverworldEncounters",
-      "downloadURL": "https://github.com/gamecorner-033/Gen1PC-OverworldEncounters/releases/download/v0.0.5/overworld_encounters.zip",
+      "downloadURL": "https://github.com/gamecorner-033/Gen1PC-OverworldEncounters/archive/refs/tags/v.0.0.7.zip",
       "api": 2,
       "profile": "content",
       "thumbnail": null,
@@ -4613,7 +4622,7 @@
       "id": "PokePCFollowers_VoxelMerge",
       "title": "PokéPC Followers (W/Voxel Support)",
       "author": "Gamecorner_033",
-      "version": "0.0.5",
+      "version": "0.5.4",
       "categories": [
         "GAMEPLAY",
         "CONTENT",
@@ -4622,7 +4631,7 @@
       ],
       "repo": "https://github.com/gamecorner-033/PokePCFollowers",
       "github": "gamecorner-033/PokePCFollowers",
-      "downloadURL": "https://github.com/gamecorner-033/PokePCFollowers/releases/download/v0.0.5/mod.zip",
+      "downloadURL": "https://github.com/gamecorner-033/PokePCFollowers/archive/refs/tags/v0.5.4.zip",
       "api": 2,
       "profile": "content",
       "thumbnail": null,
@@ -5355,43 +5364,6 @@
           "name": "running_shoes-1.4.1.zip",
           "url": "https://github.com/MadeinTaly/gen1recomp-running-shoes/releases/download/v1.4.1/running_shoes-1.4.1.zip",
           "size": 28091
-        }
-      },
-      "update_check": "ok"
-    },
-    {
-      "folder": "thorkdev@running_shoes",
-      "id": "running_shoes",
-      "title": "Running Shoes",
-      "author": "thorkdev",
-      "summary": "Get running shoes from Mom. Configurable run speed and camera bob intensity.",
-      "version": "0.3.0",
-      "categories": [
-        "QOL",
-        "GAMEPLAY"
-      ],
-      "tags": [
-        "running",
-        "shoes",
-        "movement",
-        "qol"
-      ],
-      "repo": "https://github.com/thorkdev/gen1recomp-running-shoes",
-      "github": "thorkdev/gen1recomp-running-shoes",
-      "api": 2,
-      "profile": "content",
-      "thumbnail": null,
-      "description_url": "data/mods/thorkdev@running_shoes/description.md",
-      "latest": {
-        "version": "0.3.0",
-        "tag": "0.3.0",
-        "name": "v0.3.0",
-        "prerelease": false,
-        "published_at": "2026-08-09T23:38:46Z",
-        "zip": {
-          "name": "running-shoes-0.3.0.zip",
-          "url": "https://github.com/thorkdev/gen1recomp-running-shoes/releases/download/0.3.0/running-shoes-0.3.0.zip",
-          "size": 7841
         }
       },
       "update_check": "ok"
@@ -6387,15 +6359,15 @@
       "thumbnail": null,
       "description_url": "data/mods/piftee@typed_move_colors/description.md",
       "latest": {
-        "version": "0.3.1",
-        "tag": "v0.3.1",
-        "name": "Typed Move Colors 0.3.1",
+        "version": "0.3.3",
+        "tag": "v0.3.3",
+        "name": "Typed Move Colors 0.3.3",
         "prerelease": false,
-        "published_at": "2026-08-08T22:26:42Z",
+        "published_at": "2026-08-10T20:36:40Z",
         "zip": {
-          "name": "Typed-Move-Colors-0.3.1.zip",
-          "url": "https://github.com/piftee/gen1recomp-typed-move-colors/releases/download/v0.3.1/Typed-Move-Colors-0.3.1.zip",
-          "size": 16844
+          "name": "Typed-Move-Colors-0.3.3.zip",
+          "url": "https://github.com/piftee/gen1recomp-typed-move-colors/releases/download/v0.3.3/Typed-Move-Colors-0.3.3.zip",
+          "size": 19558
         }
       },
       "update_check": "ok"
