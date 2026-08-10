@@ -1,0 +1,22 @@
+{
+  "id": "DexNav",
+  "title": "DexNav",
+  "author": "FelizNavidad-D",
+  "summary": "DexNav-style encounter browser and roaming search. Shows rates, methods, and supports Modern UI / Crystal sprites / unique icons.",
+  "version": "1.1.5",
+  "categories": [
+    "UI",
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "pokedex",
+    "encounters",
+    "hunting",
+    "ui"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Limit_Break",
+  "title": "Limit Break",
+  "author": "FelizNavidad-D",
+  "summary": "Toggleable badge-based level caps, optional level-100 break, and a candy jar that stores excess EXP.",
+  "version": "1.0.1",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "tags": [
+    "level-cap",
+    "exp",
+    "candy",
+    "badges"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

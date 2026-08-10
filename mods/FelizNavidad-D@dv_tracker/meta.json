@@ -1,0 +1,22 @@
+{
+  "id": "dv_tracker",
+  "title": "DV Tracker",
+  "author": "FelizNavidad-D",
+  "summary": "Tracks and displays DV information for your Pok\u00e9mon.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL",
+    "TOOL"
+  ],
+  "tags": [
+    "dvs",
+    "stats",
+    "tracker",
+    "ui"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

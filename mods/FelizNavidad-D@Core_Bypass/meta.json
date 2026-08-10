@@ -1,0 +1,20 @@
+{
+  "id": "Core_Bypass",
+  "title": "Core Bypass",
+  "author": "FelizNavidad-D",
+  "summary": "Bypasses certain core progression gates (e.g. key-item checks) for alternate play styles.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "key-items",
+    "story",
+    "bypass"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

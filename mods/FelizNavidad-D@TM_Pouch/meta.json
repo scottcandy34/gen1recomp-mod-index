@@ -1,0 +1,23 @@
+{
+  "id": "TM_Pouch",
+  "title": "TM Pouch",
+  "author": "FelizNavidad-D",
+  "summary": "Repurposes the Player PC into a dedicated TM/HM case (50 slots). Works with Dual Bags and Modern UI.",
+  "version": "1.0.4",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "tm",
+    "hm",
+    "bag",
+    "pc",
+    "ui",
+    "modern-ui"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

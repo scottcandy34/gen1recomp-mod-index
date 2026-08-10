@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T20:38:35.405Z",
-  "count": 193,
+  "generated_at": "2026-08-10T20:46:45.307Z",
+  "count": 211,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -992,6 +992,31 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@Core_Bypass",
+      "id": "Core_Bypass",
+      "title": "Core Bypass",
+      "author": "FelizNavidad-D",
+      "summary": "Bypasses certain core progression gates (e.g. key-item checks) for alternate play styles.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "key-items",
+        "story",
+        "bypass"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Core_Bypass/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "ShaneMcGovernIE@critical_capture",
       "id": "critical_capture",
       "title": "Critical Capture",
@@ -1274,6 +1299,31 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@Decapitalization",
+      "id": "Decapitalization",
+      "title": "Decapitalization",
+      "author": "FelizNavidad-D",
+      "summary": "Converts most in-game text from ALL CAPS to normal capitalization while preserving player-defined names.",
+      "version": "1.0.3",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "text",
+        "font",
+        "ui"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Decapitalization/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "Roxas2712@deutsch-blau",
       "id": "deutsch-blau",
       "title": "Deutsch für Pokémon Blau",
@@ -1483,6 +1533,33 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@DexNav",
+      "id": "DexNav",
+      "title": "DexNav",
+      "author": "FelizNavidad-D",
+      "summary": "DexNav-style encounter browser and roaming search. Shows rates, methods, and supports Modern UI / Crystal sprites / unique icons.",
+      "version": "1.1.5",
+      "categories": [
+        "UI",
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "pokedex",
+        "encounters",
+        "hunting",
+        "ui"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@DexNav/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "ShaneHudson@double_battles",
       "id": "double_battles",
       "title": "Double Battles",
@@ -1631,6 +1708,31 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@dual_bag",
+      "id": "dual_bag",
+      "title": "Dual Bags",
+      "author": "FelizNavidad-D",
+      "summary": "Two bags: Left/Right switches between them, Start transfers an item. Compatible with Bigger Bags and TM Pouch.",
+      "version": "1.0.3",
+      "categories": [
+        "QOL",
+        "UI"
+      ],
+      "tags": [
+        "bag",
+        "inventory",
+        "items"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@dual_bag/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "BartInTheField@translation-nl",
       "id": "translation-nl",
       "title": "Dutch translation",
@@ -1667,6 +1769,33 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@dv_tracker",
+      "id": "dv_tracker",
+      "title": "DV Tracker",
+      "author": "FelizNavidad-D",
+      "summary": "Tracks and displays DV information for your Pokémon.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL",
+        "TOOL"
+      ],
+      "tags": [
+        "dvs",
+        "stats",
+        "tracker",
+        "ui"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@dv_tracker/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "FAFF0x@dv_ev_editor",
       "id": "dv_ev_editor",
       "title": "DV/EV Editor",
@@ -1688,6 +1817,57 @@
       "description_url": "data/mods/FAFF0x@dv_ev_editor/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "FelizNavidad-D@Dynamic_Scaling",
+      "id": "Dynamic_Scaling",
+      "title": "Dynamic Scaling",
+      "author": "FelizNavidad-D",
+      "summary": "Trainer parties scale to your level and evolve appropriately. Normal / medium / hard modes and optional themed teams.",
+      "version": "1.0.4",
+      "categories": [
+        "BALANCE",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "scaling",
+        "trainers",
+        "difficulty",
+        "ai"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Dynamic_Scaling/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
+      "folder": "FelizNavidad-D@Easy_Mode",
+      "id": "Easy_Mode",
+      "title": "Easy Mode",
+      "author": "FelizNavidad-D",
+      "summary": "Battle cheats for a casual run: screens, Rage, status nullify, no accuracy checks, no recoil, guaranteed multi-hits, and more.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "BALANCE"
+      ],
+      "tags": [
+        "easy",
+        "cheat",
+        "battle"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Easy_Mode/description.md",
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "FAFF0x@echoes_beyond_the_fog",
@@ -1828,6 +2008,32 @@
         }
       },
       "update_check": "ok"
+    },
+    {
+      "folder": "FelizNavidad-D@HP_Viewer",
+      "id": "HP_Viewer",
+      "title": "Enemy HP Viewer",
+      "author": "FelizNavidad-D",
+      "summary": "Shows the enemy's numeric HP in battle. Works with wide layout and Voxel mod.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "hp",
+        "battle",
+        "ui",
+        "voxel"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@HP_Viewer/description.md",
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "Deftones565@enhanced_music",
@@ -3239,6 +3445,31 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@Later_Stone_Evo",
+      "id": "Later_Stone_Evo",
+      "title": "Later Stone Evolutions",
+      "author": "FelizNavidad-D",
+      "summary": "Stone evolutions wait until the pre-evo has exhausted its learnset; evolving early still grants the missed moves.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "BALANCE"
+      ],
+      "tags": [
+        "evolution",
+        "stone",
+        "learnset"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Later_Stone_Evo/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "KuroKratos@level_caps",
       "id": "level_caps",
       "title": "Level Caps",
@@ -3279,6 +3510,32 @@
         }
       },
       "update_check": "ok"
+    },
+    {
+      "folder": "FelizNavidad-D@Limit_Break",
+      "id": "Limit_Break",
+      "title": "Limit Break",
+      "author": "FelizNavidad-D",
+      "summary": "Toggleable badge-based level caps, optional level-100 break, and a candy jar that stores excess EXP.",
+      "version": "1.0.1",
+      "categories": [
+        "GAMEPLAY",
+        "BALANCE"
+      ],
+      "tags": [
+        "level-cap",
+        "exp",
+        "candy",
+        "badges"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Limit_Break/description.md",
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "magatsu64@mega_evolution",
@@ -4448,6 +4705,84 @@
       "update_check": "no installable release"
     },
     {
+      "folder": "FelizNavidad-D@PC_Grid_UI",
+      "id": "PC_Grid_UI",
+      "title": "PC Grid UI",
+      "author": "FelizNavidad-D",
+      "summary": "Grid-style PC box UI with party management. Compatible with Modern UI, unique icons, Crystal sprites and Crystal 251.",
+      "version": "1.0.6",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "pc",
+        "box",
+        "grid",
+        "party",
+        "modern-ui"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@PC_Grid_UI/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
+      "folder": "FelizNavidad-D@Perfect_DVs",
+      "id": "Perfect_DVs",
+      "title": "Perfect DVs",
+      "author": "FelizNavidad-D",
+      "summary": "Optional maxed or shiny-compatible DVs on wild and gift Pokémon. Toggle in the mod menu.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "dvs",
+        "ivs",
+        "shiny",
+        "breeding"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Perfect_DVs/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
+      "folder": "FelizNavidad-D@Perfect_Start",
+      "id": "Perfect_Start",
+      "title": "Perfect Start",
+      "author": "FelizNavidad-D",
+      "summary": "Receive all three Kanto starters. Yellow-aware (gifts after delivering Oak's Parcel). Nickname support.",
+      "version": "1.0.1",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "starters",
+        "gift",
+        "yellow"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Perfect_Start/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "FAFF0x@performance_monitor",
       "id": "performance_monitor",
       "title": "Performance Monitor",
@@ -5223,6 +5558,32 @@
       "description_url": "data/mods/FAFF0x@reusable_machines/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "FelizNavidad-D@TMs_HMs",
+      "id": "TMs_HMs",
+      "title": "Reusable TMs Forgettable HMs",
+      "author": "FelizNavidad-D",
+      "summary": "Makes TMs reusable and HM moves forgettable like later generations.",
+      "version": "2.0.0",
+      "categories": [
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "tm",
+        "hm",
+        "reusable",
+        "forgettable"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@TMs_HMs/description.md",
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "Deftones565@roaming_events",
@@ -6089,6 +6450,34 @@
       "update_check": "off"
     },
     {
+      "folder": "FelizNavidad-D@TM_Pouch",
+      "id": "TM_Pouch",
+      "title": "TM Pouch",
+      "author": "FelizNavidad-D",
+      "summary": "Repurposes the Player PC into a dedicated TM/HM case (50 slots). Works with Dual Bags and Modern UI.",
+      "version": "1.0.4",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "tm",
+        "hm",
+        "bag",
+        "pc",
+        "ui",
+        "modern-ui"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@TM_Pouch/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "dburton95@toast_notifications",
       "id": "toast_notifications",
       "title": "Toast Notifications",
@@ -6110,6 +6499,31 @@
       "profile": "content",
       "thumbnail": null,
       "description_url": "data/mods/dburton95@toast_notifications/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
+      "folder": "FelizNavidad-D@Trade_Evo_Fix",
+      "id": "Trade_Evo_Fix",
+      "title": "Trade Evo Fix",
+      "author": "FelizNavidad-D",
+      "summary": "Trade-evolution Pokémon also evolve at level 40 if they have not already evolved by trade.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "evolution",
+        "trade",
+        "level"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Trade_Evo_Fix/description.md",
       "latest": null,
       "update_check": "no installable release"
     },
@@ -6299,6 +6713,31 @@
       "update_check": "ok"
     },
     {
+      "folder": "FelizNavidad-D@Trainer_Rematches",
+      "id": "Trainer_Rematches",
+      "title": "Trainer Rematches",
+      "author": "FelizNavidad-D",
+      "summary": "Defeated trainers offer a rematch when you talk to them again. Compatible with Dynamic Scaling.",
+      "version": "1.0.1",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "trainers",
+        "rematch",
+        "battle"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Trainer_Rematches/description.md",
+      "latest": null,
+      "update_check": "no installable release"
+    },
+    {
       "folder": "ZyranCZ@trainers_choose_lead",
       "id": "trainers_choose_lead",
       "title": "Trainers Let You Choose Lead Pokemon",
@@ -6334,6 +6773,33 @@
         }
       },
       "update_check": "ok"
+    },
+    {
+      "folder": "FelizNavidad-D@Translucent_UI",
+      "id": "Translucent_UI",
+      "title": "Translucent UI",
+      "author": "FelizNavidad-D",
+      "summary": "Makes most in-game menus translucent while keeping SGB palette and voxel-mod compatibility.",
+      "version": "1.0.2",
+      "categories": [
+        "UI",
+        "ART"
+      ],
+      "tags": [
+        "ui",
+        "transparency",
+        "menus",
+        "sgb",
+        "voxel-compatible"
+      ],
+      "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+      "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/FelizNavidad-D@Translucent_UI/description.md",
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "piftee@typed_move_colors",

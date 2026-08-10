@@ -1,0 +1,20 @@
+{
+  "id": "Decapitalization",
+  "title": "Decapitalization",
+  "author": "FelizNavidad-D",
+  "summary": "Converts most in-game text from ALL CAPS to normal capitalization while preserving player-defined names.",
+  "version": "1.0.3",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "text",
+    "font",
+    "ui"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

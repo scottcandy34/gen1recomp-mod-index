@@ -1,0 +1,21 @@
+{
+  "id": "Dynamic_Scaling",
+  "title": "Dynamic Scaling",
+  "author": "FelizNavidad-D",
+  "summary": "Trainer parties scale to your level and evolve appropriately. Normal / medium / hard modes and optional themed teams.",
+  "version": "1.0.4",
+  "categories": [
+    "BALANCE",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "scaling",
+    "trainers",
+    "difficulty",
+    "ai"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

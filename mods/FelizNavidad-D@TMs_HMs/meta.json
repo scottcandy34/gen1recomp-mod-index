@@ -1,0 +1,21 @@
+{
+  "id": "TMs_HMs",
+  "title": "Reusable TMs Forgettable HMs",
+  "author": "FelizNavidad-D",
+  "summary": "Makes TMs reusable and HM moves forgettable like later generations.",
+  "version": "2.0.0",
+  "categories": [
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "tm",
+    "hm",
+    "reusable",
+    "forgettable"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

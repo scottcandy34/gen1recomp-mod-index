@@ -1,0 +1,20 @@
+{
+  "id": "Later_Stone_Evo",
+  "title": "Later Stone Evolutions",
+  "author": "FelizNavidad-D",
+  "summary": "Stone evolutions wait until the pre-evo has exhausted its learnset; evolving early still grants the missed moves.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "tags": [
+    "evolution",
+    "stone",
+    "learnset"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

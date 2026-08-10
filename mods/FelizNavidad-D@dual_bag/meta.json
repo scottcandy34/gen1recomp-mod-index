@@ -1,0 +1,20 @@
+{
+  "id": "dual_bag",
+  "title": "Dual Bags",
+  "author": "FelizNavidad-D",
+  "summary": "Two bags: Left/Right switches between them, Start transfers an item. Compatible with Bigger Bags and TM Pouch.",
+  "version": "1.0.3",
+  "categories": [
+    "QOL",
+    "UI"
+  ],
+  "tags": [
+    "bag",
+    "inventory",
+    "items"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

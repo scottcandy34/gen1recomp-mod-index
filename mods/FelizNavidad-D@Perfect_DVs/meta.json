@@ -1,0 +1,21 @@
+{
+  "id": "Perfect_DVs",
+  "title": "Perfect DVs",
+  "author": "FelizNavidad-D",
+  "summary": "Optional maxed or shiny-compatible DVs on wild and gift Pok\u00e9mon. Toggle in the mod menu.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "dvs",
+    "ivs",
+    "shiny",
+    "breeding"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

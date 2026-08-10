@@ -1,0 +1,22 @@
+{
+  "id": "Translucent_UI",
+  "title": "Translucent UI",
+  "author": "FelizNavidad-D",
+  "summary": "Makes most in-game menus translucent while keeping SGB palette and voxel-mod compatibility.",
+  "version": "1.0.2",
+  "categories": [
+    "UI",
+    "ART"
+  ],
+  "tags": [
+    "ui",
+    "transparency",
+    "menus",
+    "sgb",
+    "voxel-compatible"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "PC_Grid_UI",
+  "title": "PC Grid UI",
+  "author": "FelizNavidad-D",
+  "summary": "Grid-style PC box UI with party management. Compatible with Modern UI, unique icons, Crystal sprites and Crystal 251.",
+  "version": "1.0.6",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "pc",
+    "box",
+    "grid",
+    "party",
+    "modern-ui"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}

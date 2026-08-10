@@ -1,0 +1,20 @@
+{
+  "id": "Trainer_Rematches",
+  "title": "Trainer Rematches",
+  "author": "FelizNavidad-D",
+  "summary": "Defeated trainers offer a rematch when you talk to them again. Compatible with Dynamic Scaling.",
+  "version": "1.0.1",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "trainers",
+    "rematch",
+    "battle"
+  ],
+  "repo": "https://github.com/FelizNavidad-D/Gen1-Recomp-Mods",
+  "github": "FelizNavidad-D/Gen1-Recomp-Mods",
+  "api": 2,
+  "profile": "content"
+}
