@@ -1,0 +1,20 @@
+{
+  "id": "girl_mode",
+  "title": "Girl Mode",
+  "author": "dburton95",
+  "summary": "Text/gender presentation mod that switches the player to girl mode.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "UI"
+  ],
+  "tags": [
+    "gender",
+    "text",
+    "avatar"
+  ],
+  "repo": "https://github.com/dburton95/girl-mode",
+  "github": "dburton95/girl-mode",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "professor_oak_dv",
+  "title": "Professor Oak DV/STAT Evaluation",
+  "author": "ZyranCZ",
+  "summary": "Ask Professor Oak for a DV/STAT evaluation of your Pok\u00e9mon from the PC or in person in Pallet Town.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL",
+    "UI"
+  ],
+  "tags": [
+    "dv",
+    "stats",
+    "oak",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/Professor-Oak-DV-STAT-Evaluation",
+  "github": "ZyranCZ/Professor-Oak-DV-STAT-Evaluation",
+  "api": 2,
+  "profile": "content"
+}

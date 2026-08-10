@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T19:26:22.403Z",
-  "count": 133,
+  "generated_at": "2026-08-10T19:38:08.454Z",
+  "count": 189,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -40,6 +40,32 @@
       "profile": "content",
       "thumbnail": "data/mods/liminal@no_exp_challenge/thumbnail.png",
       "description_url": "data/mods/liminal@no_exp_challenge/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "randyadr@3d_pokemon_sprites",
+      "id": "3d_pokemon_sprites",
+      "title": "3D Pokemon Sprites",
+      "author": "randyadr",
+      "summary": "Converts Pokémon sprites into 3D models for the overworld / Stadium-style presentation.",
+      "version": "0.1.56",
+      "categories": [
+        "ART",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "3d",
+        "sprites",
+        "models",
+        "stadium"
+      ],
+      "repo": "https://github.com/randyadr/3D-Pokemon-Sprites",
+      "github": "randyadr/3D-Pokemon-Sprites",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/randyadr@3d_pokemon_sprites/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -88,6 +114,33 @@
       "description_url": "data/mods/FAFF0x@advanced_box_system/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "wowabox@all_pokemon_catchable_151_mod",
+      "id": "all_pokemon_catchable_151_mod",
+      "title": "All Pokemon Catchable 151 Mod",
+      "author": "wowabox",
+      "summary": "Makes all 151 Kanto Pokémon obtainable in a single playthrough without trading. Yellow support included.",
+      "version": "0.3.3",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "pokedex",
+        "catchable",
+        "151",
+        "no-trade",
+        "yellow"
+      ],
+      "repo": "https://github.com/wowabox/All_Pokemon_Catchable_151_Mod",
+      "github": "wowabox/All_Pokemon_Catchable_151_Mod",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/wowabox@all_pokemon_catchable_151_mod/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "FAFF0x@area_dexnav",
@@ -180,6 +233,30 @@
       "update_check": "pending"
     },
     {
+      "folder": "ZyranCZ@autofire",
+      "id": "autofire",
+      "title": "Autofire",
+      "author": "ZyranCZ",
+      "summary": "Autofire support for the A and B buttons.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL"
+      ],
+      "tags": [
+        "autofire",
+        "input",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/autofire",
+      "github": "ZyranCZ/autofire",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@autofire/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "eduardocalafell@bag_sort",
       "id": "bag_sort",
       "title": "Bag Sort",
@@ -248,6 +325,84 @@
       "update_check": "pending"
     },
     {
+      "folder": "EnterPlayerOne@battle_cinematics_stadium_camera",
+      "id": "battle_cinematics_stadium_camera",
+      "title": "Battle Cinematics Stadium Camera",
+      "author": "EnterPlayerOne",
+      "summary": "Standalone cinematic battle-camera system featuring authentic Pokémon Stadium camera choreography and multiple backends.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "UI",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "camera",
+        "stadium",
+        "cinematics",
+        "battle"
+      ],
+      "repo": "https://github.com/EnterPlayerOne/Battle-Cinematics-Stadium-Camera",
+      "github": "EnterPlayerOne/Battle-Cinematics-Stadium-Camera",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/EnterPlayerOne@battle_cinematics_stadium_camera/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ddagent@battle_dex",
+      "id": "battle_dex",
+      "title": "Battle Dex",
+      "author": "ddagent",
+      "summary": "In-battle Pokédex access: SELECT reads the opponent; a DEX row in the party menu reads your own Pokémon.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "pokedex",
+        "battle",
+        "ui"
+      ],
+      "repo": "https://github.com/ddagent/gen1recomp-battle-dex",
+      "github": "ddagent/gen1recomp-battle-dex",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ddagent@battle_dex/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "piftee@battle_info_hud",
+      "id": "battle_info_hud",
+      "title": "Battle Info HUD",
+      "author": "piftee",
+      "summary": "Optional native battle HUD showing colour, EXP, caught status and level information.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "battle",
+        "hud",
+        "ui",
+        "info"
+      ],
+      "repo": "https://github.com/piftee/gen1recomp-battle-info-hud",
+      "github": "piftee/gen1recomp-battle-info-hud",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/piftee@battle_info_hud/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "masterwebx@MOVE_MATCHUP",
       "id": "MOVE_MATCHUP",
       "title": "Battle Move Info",
@@ -308,6 +463,31 @@
       "license": "MIT",
       "thumbnail": "data/mods/eduardocalafell@better_battle_ui/thumbnail.png",
       "description_url": "data/mods/eduardocalafell@better_battle_ui/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "HydroHomie31415@better_buildings",
+      "id": "better_buildings",
+      "title": "Better Buildings",
+      "author": "HydroHomie31415",
+      "summary": "Improved building graphics and interiors.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "CONTENT"
+      ],
+      "tags": [
+        "buildings",
+        "art",
+        "tiles"
+      ],
+      "repo": "https://github.com/HydroHomie31415/Better-Buildings",
+      "github": "HydroHomie31415/Better-Buildings",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/HydroHomie31415@better_buildings/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -396,6 +576,32 @@
       "update_check": "pending"
     },
     {
+      "folder": "ZyranCZ@can_always_escape",
+      "id": "can_always_escape",
+      "title": "Can Always Escape",
+      "author": "ZyranCZ",
+      "summary": "Always succeed at escaping from wild Pokémon battles.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "escape",
+        "flee",
+        "qol",
+        "wild"
+      ],
+      "repo": "https://github.com/ZyranCZ/Can-Always-Escape",
+      "github": "ZyranCZ/Can-Always-Escape",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@can_always_escape/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "FAFF0x@catch_helper",
       "id": "catch_helper",
       "title": "Catch Helper",
@@ -417,6 +623,31 @@
       "description_url": "data/mods/FAFF0x@catch_helper/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "randyadr@character_selector",
+      "id": "character_selector",
+      "title": "Character Selector",
+      "author": "randyadr",
+      "summary": "Character / player sprite selector for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "UI"
+      ],
+      "tags": [
+        "character",
+        "avatar",
+        "sprites"
+      ],
+      "repo": "https://github.com/randyadr/Gen1Recomp-Character-Selector",
+      "github": "randyadr/Gen1Recomp-Character-Selector",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/randyadr@character_selector/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "hdbreaker@cheat_engine",
@@ -446,6 +677,31 @@
       "conflicts": [],
       "thumbnail": "data/mods/hdbreaker@cheat_engine/thumbnail.png",
       "description_url": "data/mods/hdbreaker@cheat_engine/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "randyadr@cheat_menu",
+      "id": "cheat_menu",
+      "title": "Cheat Menu",
+      "author": "randyadr",
+      "summary": "In-game cheat menu for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "TOOL",
+        "QOL"
+      ],
+      "tags": [
+        "cheats",
+        "debug",
+        "tool"
+      ],
+      "repo": "https://github.com/randyadr/Gen1-Cheat-Menu",
+      "github": "randyadr/Gen1-Cheat-Menu",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/randyadr@cheat_menu/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -534,6 +790,85 @@
       "update_check": "pending"
     },
     {
+      "folder": "AlucardTheFirstHunter@cry_replacement",
+      "id": "cry_replacement",
+      "title": "Cry Replacement",
+      "author": "AlucardTheFirstHunter",
+      "summary": "Replaces all 151 Pokémon cries with anime and FireRed/LeafGreen versions. Toggleable in OPTIONS.",
+      "version": "1.0.0",
+      "categories": [
+        "AUDIO"
+      ],
+      "tags": [
+        "cries",
+        "audio",
+        "anime",
+        "frlg"
+      ],
+      "repo": "https://github.com/AlucardTheFirstHunter/CryReplacementMod",
+      "github": "AlucardTheFirstHunter/CryReplacementMod",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/AlucardTheFirstHunter@cry_replacement/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Deftones565@crystal_251",
+      "id": "crystal_251",
+      "title": "Crystal 251",
+      "author": "Deftones565",
+      "summary": "Expands Gen 1 with the full Crystal 251 Pokémon roster and related mechanics.",
+      "version": "0.10.1",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY",
+        "TOTAL_CONVERSION"
+      ],
+      "tags": [
+        "crystal",
+        "251",
+        "johto",
+        "expansion"
+      ],
+      "repo": "https://github.com/Deftones565/gen1recomp-mod-crystal-251",
+      "github": "Deftones565/gen1recomp-mod-crystal-251",
+      "api": 2,
+      "profile": "overhaul",
+      "thumbnail": null,
+      "description_url": "data/mods/Deftones565@crystal_251/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "distilledorion-sketch@crystal_animated_sprites_with_shiny_visuals",
+      "id": "crystal_animated_sprites_with_shiny_visuals",
+      "title": "Crystal Animated Sprites with Shiny Visuals",
+      "author": "distilledorion-sketch",
+      "summary": "Crystal-style animated battle sprites, automatic shiny artwork, Gen 2-inspired shiny entrance with sparkle + cry, and full Johto support.",
+      "version": "1.5.0",
+      "categories": [
+        "ART",
+        "UI"
+      ],
+      "tags": [
+        "sprites",
+        "animated",
+        "crystal",
+        "shiny",
+        "art"
+      ],
+      "repo": "https://github.com/distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals",
+      "github": "distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/distilledorion-sketch@crystal_animated_sprites_with_shiny_visuals/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "FAFF0x@crystal_onix",
       "id": "crystal_onix",
       "title": "Crystal Onix: The Living Crystal",
@@ -557,6 +892,30 @@
       "description_url": "data/mods/FAFF0x@crystal_onix/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "dburton95@crystal",
+      "id": "crystal",
+      "title": "Crystal Player Sprite",
+      "author": "dburton95",
+      "summary": "Crystal-style player sprite mod for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "player",
+        "sprites",
+        "crystal"
+      ],
+      "repo": "https://github.com/dburton95/crystal",
+      "github": "dburton95/crystal",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/dburton95@crystal/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "AntoniMan31@day_night_cycle",
@@ -757,6 +1116,32 @@
       "update_check": "pending"
     },
     {
+      "folder": "ddagent@dex_pages",
+      "id": "dex_pages",
+      "title": "Dex Pages",
+      "author": "ddagent",
+      "summary": "Extra Pokédex pages: type matchups, catch odds, locations, level-up moves, TM/HM and evolution info.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "pokedex",
+        "stats",
+        "moves",
+        "ui"
+      ],
+      "repo": "https://github.com/ddagent/gen1recomp-dex-pages",
+      "github": "ddagent/gen1recomp-dex-pages",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ddagent@dex_pages/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "ShaneHudson@double_battles",
       "id": "double_battles",
       "title": "Double Battles",
@@ -941,6 +1326,136 @@
       "update_check": "pending"
     },
     {
+      "folder": "thorkdev@effective_markers",
+      "id": "effective_markers",
+      "title": "Effective Markers",
+      "author": "thorkdev",
+      "summary": "Draws a small icon in the FIGHT menu showing the selected move's type effectiveness.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "moves",
+        "effectiveness",
+        "ui",
+        "battle"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-effective-markers",
+      "github": "thorkdev/gen1recomp-effective-markers",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@effective_markers/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@enemy_hp",
+      "id": "enemy_hp",
+      "title": "Enemy HP",
+      "author": "ZyranCZ",
+      "summary": "Shows the enemy's current HP on the same line as their level in battle.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "battle",
+        "ui",
+        "hp",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/Enemy-HP",
+      "github": "ZyranCZ/Enemy-HP",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@enemy_hp/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Deftones565@enhanced_music",
+      "id": "enhanced_music",
+      "title": "Enhanced Music",
+      "author": "Deftones565",
+      "summary": "Enhanced / replacement music tracks.",
+      "version": "1.0.0",
+      "categories": [
+        "AUDIO"
+      ],
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "repo": "https://github.com/Deftones565/gen1recomp-mod-enhanced-music",
+      "github": "Deftones565/gen1recomp-mod-enhanced-music",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Deftones565@enhanced_music/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "thorkdev@evolution_man",
+      "id": "evolution_man",
+      "title": "Evolution Man",
+      "author": "thorkdev",
+      "summary": "An NPC who evolves trade-only Pokémon for $4000 — no link cable required.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "evolution",
+        "trade",
+        "npc",
+        "qol"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-evolution-man",
+      "github": "thorkdev/gen1recomp-evolution-man",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@evolution_man/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@evolve_in_battle",
+      "id": "evolve_in_battle",
+      "title": "Evolve in Battle",
+      "author": "ZyranCZ",
+      "summary": "Allows active and benched party Pokémon to evolve during battle from EXP level-ups, Evolution Stones, and Rare Candy.",
+      "version": "1.0.2",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "evolution",
+        "battle",
+        "anime",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/Evolve-in-Battle",
+      "github": "ZyranCZ/Evolve-in-Battle",
+      "api": 2,
+      "profile": "content",
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@evolve_in_battle/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "ShaneMcGovernIE@exp_share",
       "id": "exp_share",
       "title": "Exp Share (Gen 1 / Gen 5+ styles)",
@@ -996,6 +1511,37 @@
       "update_check": "off"
     },
     {
+      "folder": "ZyranCZ@fairy_steel_dark",
+      "id": "fairy_steel_dark",
+      "title": "Fairy Steel Dark and Typing Charts",
+      "author": "ZyranCZ",
+      "summary": "Adds Fairy, Steel and Dark types. Compatible with Crystal 251. Supports Vanilla / Gen II / Gen VI type charts.",
+      "version": "1.2.2",
+      "categories": [
+        "BALANCE",
+        "CONTENT"
+      ],
+      "tags": [
+        "types",
+        "fairy",
+        "steel",
+        "dark",
+        "balance",
+        "crystal251"
+      ],
+      "repo": "https://github.com/ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts",
+      "github": "ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts",
+      "api": 2,
+      "profile": "content",
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@fairy_steel_dark/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "eduardocalafell@fakemons",
       "id": "fakemons",
       "title": "Fakémons",
@@ -1024,6 +1570,31 @@
       "license": "MIT",
       "thumbnail": null,
       "description_url": "data/mods/eduardocalafell@fakemons/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Razor1993-Real@flying_overhaul",
+      "id": "flying_overhaul",
+      "title": "Flying Overhaul",
+      "author": "Razor1993-Real",
+      "summary": "Makes Fly stop opening the town map. You climb onto the bird and freely fly across Kanto yourself.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "fly",
+        "overworld",
+        "free-fly"
+      ],
+      "repo": "https://github.com/Razor1993-Real/FlyingOverhaul",
+      "github": "Razor1993-Real/FlyingOverhaul",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Razor1993-Real@flying_overhaul/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -1231,6 +1802,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "svaldesoliva@gen4_platinum_sprites",
+      "id": "gen4_platinum_sprites",
+      "title": "Gen 4 Platinum Sprites",
+      "author": "svaldesoliva",
+      "summary": "Pokémon Platinum battle sprites (including official Gen 4 shinies) for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "sprites",
+        "platinum",
+        "gen4",
+        "shiny"
+      ],
+      "repo": "https://github.com/svaldesoliva/gen1recomp-gen4-platinum-sprites",
+      "github": "svaldesoliva/gen1recomp-gen4-platinum-sprites",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/svaldesoliva@gen4_platinum_sprites/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "adrian@gen1_kr",
       "id": "gen1_kr",
       "title": "Gen1 KR",
@@ -1382,6 +1978,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "dburton95@girl_mode",
+      "id": "girl_mode",
+      "title": "Girl Mode",
+      "author": "dburton95",
+      "summary": "Text/gender presentation mod that switches the player to girl mode.",
+      "version": "1.0.0",
+      "categories": [
+        "CONTENT",
+        "UI"
+      ],
+      "tags": [
+        "gender",
+        "text",
+        "avatar"
+      ],
+      "repo": "https://github.com/dburton95/girl-mode",
+      "github": "dburton95/girl-mode",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/dburton95@girl_mode/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "MadeinTaly@groovy_palette",
       "id": "groovy_palette",
       "title": "Groovy Palette & Frames",
@@ -1438,6 +2059,56 @@
       "update_check": "off"
     },
     {
+      "folder": "thorkdev@happiness",
+      "id": "happiness",
+      "title": "Happiness",
+      "author": "thorkdev",
+      "summary": "Every caught Pokémon tracks a hidden 0–255 happiness value (not just Pikachu).",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "happiness",
+        "friendship",
+        "gen2"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-happiness",
+      "github": "thorkdev/gen1recomp-happiness",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@happiness/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "randyadr@hd_grass",
+      "id": "hd_grass",
+      "title": "HD Grass",
+      "author": "randyadr",
+      "summary": "Higher-resolution / improved grass tiles for the overworld.",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "grass",
+        "tiles",
+        "art",
+        "hd"
+      ],
+      "repo": "https://github.com/randyadr/Gen1-Recomp-HD-Grass",
+      "github": "randyadr/Gen1-Recomp-HD-Grass",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/randyadr@hd_grass/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "masterwebx@HEAL_ANYWHERE",
       "id": "HEAL_ANYWHERE",
       "title": "Heal Anywhere",
@@ -1461,6 +2132,32 @@
       "profile": "content",
       "thumbnail": "data/mods/masterwebx@HEAL_ANYWHERE/thumbnail.png",
       "description_url": "data/mods/masterwebx@HEAL_ANYWHERE/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@help_story_guide",
+      "id": "help_story_guide",
+      "title": "HELP Story Guide",
+      "author": "ZyranCZ",
+      "summary": "Adds a HELP option to the START menu that tells you what to do next in the story.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL",
+        "UI"
+      ],
+      "tags": [
+        "guide",
+        "story",
+        "help",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/HELP-Story-Guide",
+      "github": "ZyranCZ/HELP-Story-Guide",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@help_story_guide/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -1693,6 +2390,56 @@
       "update_check": "pending"
     },
     {
+      "folder": "jtfresh90@kanto_life",
+      "id": "kanto_life",
+      "title": "Kanto Life Mod",
+      "author": "jtfresh90",
+      "summary": "NPC immersion and life-simulation style changes for Kanto.",
+      "version": "1.0.0",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "npc",
+        "immersion",
+        "life"
+      ],
+      "repo": "https://github.com/jtfresh90/Kanto-Life-Mod",
+      "github": "jtfresh90/Kanto-Life-Mod",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/jtfresh90@kanto_life/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "magatsu64@mega_evolution",
+      "id": "mega_evolution",
+      "title": "Mega Evolution",
+      "author": "magatsu64",
+      "summary": "Adds Mega Evolution support to Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "mega",
+        "evolution",
+        "gen6"
+      ],
+      "repo": "https://github.com/magatsu64/Gen1RecompMegaEvolution",
+      "github": "magatsu64/Gen1RecompMegaEvolution",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/magatsu64@mega_evolution/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "eduardocalafell@minimap",
       "id": "minimap",
       "title": "Minimap",
@@ -1824,6 +2571,32 @@
       "update_check": "pending"
     },
     {
+      "folder": "piftee@modern_party_ui",
+      "id": "modern_party_ui",
+      "title": "Modern Party UI",
+      "author": "piftee",
+      "summary": "Responsive modern party-screen UI for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "party",
+        "ui",
+        "modern",
+        "responsive"
+      ],
+      "repo": "https://github.com/piftee/gen1recomp-modern-party-ui",
+      "github": "piftee/gen1recomp-modern-party-ui",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/piftee@modern_party_ui/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "FAFF0x@modern_ui_icon_fix",
       "id": "modern_ui_icon_fix",
       "title": "Modern UI Icon Fix",
@@ -1875,6 +2648,57 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@mods_hotkeys/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@move_category_preview",
+      "id": "move_category_preview",
+      "title": "Move Category Preview",
+      "author": "ZyranCZ",
+      "summary": "Replaces the TYPE label in the attack preview with PHYS/ or SPEC/ based on move category.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "moves",
+        "ui",
+        "physical",
+        "special"
+      ],
+      "repo": "https://github.com/ZyranCZ/Move-Category-Preview",
+      "github": "ZyranCZ/Move-Category-Preview",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@move_category_preview/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "thorkdev@move_deleter",
+      "id": "move_deleter",
+      "title": "Move Deleter",
+      "author": "thorkdev",
+      "summary": "Free NPC on the Celadon Mart roof who deletes any move (including HMs).",
+      "version": "1.0.0",
+      "categories": [
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "move deleter",
+        "hm",
+        "qol"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-move-deleter",
+      "github": "thorkdev/gen1recomp-move-deleter",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@move_deleter/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -1957,6 +2781,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "Gilles93@move_type_fix",
+      "id": "move_type_fix",
+      "title": "Move Type Fix",
+      "author": "Gilles93",
+      "summary": "Corrects a few Gen 1 moves that had the wrong type (e.g. Gust, Karate Chop) to match later generations.",
+      "version": "1.0.0",
+      "categories": [
+        "BALANCE"
+      ],
+      "tags": [
+        "moves",
+        "types",
+        "balance",
+        "gen2"
+      ],
+      "repo": "https://github.com/Gilles93/Move-Type-Fix",
+      "github": "Gilles93/Move-Type-Fix",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Gilles93@move_type_fix/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "FAFF0x@moves_manager",
       "id": "moves_manager",
       "title": "Moves Manager",
@@ -2032,6 +2881,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "AlucardTheFirstHunter@music_replacement",
+      "id": "music_replacement",
+      "title": "Music Replacement",
+      "author": "AlucardTheFirstHunter",
+      "summary": "Replaces most music and fanfares with tracks from Let's Go Pikachu/Eevee and FireRed/LeafGreen.",
+      "version": "1.0.0",
+      "categories": [
+        "AUDIO"
+      ],
+      "tags": [
+        "music",
+        "audio",
+        "lgpe",
+        "frlg"
+      ],
+      "repo": "https://github.com/AlucardTheFirstHunter/MusicReplacementMod",
+      "github": "AlucardTheFirstHunter/MusicReplacementMod",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/AlucardTheFirstHunter@music_replacement/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "DarioMelo@Music_FRLG",
       "id": "Music_FRLG",
       "title": "Music-FRLG",
@@ -2100,6 +2974,30 @@
       "thumbnail": "data/mods/DarioMelo@Music_LGPE/thumbnail.png",
       "description_url": "data/mods/DarioMelo@Music_LGPE/description.md",
       "summary": "Music from Let's Go Pikachu / Let's Go Eevee",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "thorkdev@mystery_gift",
+      "id": "mystery_gift",
+      "title": "Mystery Gift",
+      "author": "thorkdev",
+      "summary": "Adds a MYSTERY GIFT row to the START menu.",
+      "version": "1.0.0",
+      "categories": [
+        "CONTENT",
+        "QOL"
+      ],
+      "tags": [
+        "mystery gift",
+        "start menu"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-mystery-gift",
+      "github": "thorkdev/gen1recomp-mystery-gift",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@mystery_gift/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -2225,6 +3123,57 @@
       "update_check": "off"
     },
     {
+      "folder": "dburton95@non_binary_mode",
+      "id": "non_binary_mode",
+      "title": "Non-Binary Mode",
+      "author": "dburton95",
+      "summary": "Text/gender presentation mod for non-binary player identity.",
+      "version": "1.0.0",
+      "categories": [
+        "CONTENT",
+        "UI"
+      ],
+      "tags": [
+        "gender",
+        "text",
+        "non-binary"
+      ],
+      "repo": "https://github.com/dburton95/non-binary-mode",
+      "github": "dburton95/non-binary-mode",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/dburton95@non_binary_mode/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ddagent@npc_bubbles",
+      "id": "npc_bubbles",
+      "title": "NPC Bubbles",
+      "author": "ddagent",
+      "summary": "Shows a ! over NPCs that give items/rewards and a ? over ones that change the world state.",
+      "version": "2.3.9",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "npc",
+        "bubbles",
+        "ui",
+        "qol"
+      ],
+      "repo": "https://github.com/ddagent/gen1recomp-npc-bubbles",
+      "github": "ddagent/gen1recomp-npc-bubbles",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ddagent@npc_bubbles/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "TheRhysWyrill@instant_heal_pc_rest",
       "id": "instant_heal_pc_rest",
       "title": "Nurse Speed Heal & PC Rest",
@@ -2276,6 +3225,32 @@
       ],
       "thumbnail": "data/mods/bryanthaboi@nuzlocke/thumbnail.png",
       "description_url": "data/mods/bryanthaboi@nuzlocke/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "on1san@otf_player_switcher",
+      "id": "otf_player_switcher",
+      "title": "OTF Player Switcher",
+      "author": "on1san",
+      "summary": "Overworld on-the-fly player sprite switcher. Also supports Trainer Card and back sprite switching. PageUp/PageDown shortcuts.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "UI"
+      ],
+      "tags": [
+        "player",
+        "sprites",
+        "switcher",
+        "avatar"
+      ],
+      "repo": "https://github.com/on1san/otf-player-switcher",
+      "github": "on1san/otf-player-switcher",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/on1san@otf_player_switcher/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -2474,6 +3449,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "thorkdev@pokerus",
+      "id": "pokerus",
+      "title": "Pokérus",
+      "author": "thorkdev",
+      "summary": "Rare Gen 2-style Pokérus infection that can spread from wild battles.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "pokerus",
+        "gen2",
+        "status"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-pokerus",
+      "github": "thorkdev/gen1recomp-pokerus",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@pokerus/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "mresnick67@pokewalker",
       "id": "pokewalker",
       "title": "Pokewalker",
@@ -2543,6 +3543,32 @@
       "update_check": "pending"
     },
     {
+      "folder": "ZyranCZ@professor_oak_dv",
+      "id": "professor_oak_dv",
+      "title": "Professor Oak DV/STAT Evaluation",
+      "author": "ZyranCZ",
+      "summary": "Ask Professor Oak for a DV/STAT evaluation of your Pokémon from the PC or in person in Pallet Town.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL",
+        "UI"
+      ],
+      "tags": [
+        "dv",
+        "stats",
+        "oak",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/Professor-Oak-DV-STAT-Evaluation",
+      "github": "ZyranCZ/Professor-Oak-DV-STAT-Evaluation",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@professor_oak_dv/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "ShaneMcGovernIE@qol_toggles",
       "id": "qol_toggles",
       "title": "QoL Toggles",
@@ -2568,6 +3594,28 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@qol_toggles/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Deftones565@quality_of_life",
+      "id": "quality_of_life",
+      "title": "Quality of Life",
+      "author": "Deftones565",
+      "summary": "Collection of quality-of-life improvements for Gen1Recomp.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL"
+      ],
+      "tags": [
+        "qol"
+      ],
+      "repo": "https://github.com/Deftones565/gen1recomp-mod-quality-of-life",
+      "github": "Deftones565/gen1recomp-mod-quality-of-life",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Deftones565@quality_of_life/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -2622,6 +3670,55 @@
       "description_url": "data/mods/FAFF0x@quest_system/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "ddagent@quick_save",
+      "id": "quick_save",
+      "title": "Quick Save",
+      "author": "ddagent",
+      "summary": "Save from the field with one button instead of going through the START menu.",
+      "version": "1.0.0",
+      "categories": [
+        "QOL"
+      ],
+      "tags": [
+        "save",
+        "quick",
+        "qol"
+      ],
+      "repo": "https://github.com/ddagent/gen1recomp-quick-save",
+      "github": "ddagent/gen1recomp-quick-save",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ddagent@quick_save/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "thorkdev@radio",
+      "id": "radio",
+      "title": "Radio",
+      "author": "thorkdev",
+      "summary": "Adds a RADIO option to the START menu.",
+      "version": "1.0.0",
+      "categories": [
+        "AUDIO",
+        "QOL"
+      ],
+      "tags": [
+        "radio",
+        "music",
+        "start menu"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-radio",
+      "github": "thorkdev/gen1recomp-radio",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@radio/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "ciddmandude@pokemon_randomizer",
@@ -2727,9 +3824,16 @@
       "id": "recomp_cartographer",
       "title": "Recomp Cartographer",
       "author": "Sedatb23",
-      "version": "0.2.0",
+      "summary": "Cartography / map-related tooling or visualization for Gen1Recomp.",
+      "version": "1.0.0",
       "categories": [
-        "ART"
+        "TOOL",
+        "UI"
+      ],
+      "tags": [
+        "map",
+        "cartographer",
+        "tool"
       ],
       "repo": "https://github.com/Sedatb23/recomp_cartographer",
       "github": "Sedatb23/recomp_cartographer",
@@ -2737,7 +3841,6 @@
       "profile": "content",
       "thumbnail": null,
       "description_url": "data/mods/Sedatb23@recomp_cartographer/description.md",
-      "summary": "This mod allows dumping of the maps into tiled.",
       "latest": null,
       "update_check": "pending"
     },
@@ -2791,6 +3894,31 @@
       "description_url": "data/mods/FAFF0x@reusable_machines/description.md",
       "latest": null,
       "update_check": "off"
+    },
+    {
+      "folder": "Deftones565@roaming_events",
+      "id": "roaming_events",
+      "title": "Roaming Events",
+      "author": "Deftones565",
+      "summary": "Adds roaming legendary / special event Pokémon behavior.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "roaming",
+        "events",
+        "legendaries"
+      ],
+      "repo": "https://github.com/Deftones565/gen1recomp-mod-roaming-events",
+      "github": "Deftones565/gen1recomp-mod-roaming-events",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Deftones565@roaming_events/description.md",
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "FAFF0x@rocket_gym_ambushes",
@@ -2879,6 +4007,58 @@
       "update_check": "pending"
     },
     {
+      "folder": "thorkdev@running_shoes",
+      "id": "running_shoes",
+      "title": "Running Shoes",
+      "author": "thorkdev",
+      "summary": "Get running shoes from Mom. Configurable run speed and camera bob intensity.",
+      "version": "0.3.0",
+      "categories": [
+        "QOL",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "running",
+        "shoes",
+        "movement",
+        "qol"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-running-shoes",
+      "github": "thorkdev/gen1recomp-running-shoes",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@running_shoes/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "thorkdev@screen_effects",
+      "id": "screen_effects",
+      "title": "Screen Effects",
+      "author": "thorkdev",
+      "summary": "CRT / film-grain look with scanlines, vignette, mild chromatic aberration and animated grain.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "UI"
+      ],
+      "tags": [
+        "crt",
+        "scanlines",
+        "visual",
+        "effects"
+      ],
+      "repo": "https://github.com/thorkdev/gen1recomp-screen-effects",
+      "github": "thorkdev/gen1recomp-screen-effects",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/thorkdev@screen_effects/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "Satori7Kensho@shiny_starters_gifts",
       "id": "shiny_starters_gifts",
       "title": "Shiny Gifts & Starters",
@@ -2911,6 +4091,31 @@
       "update_check": "pending"
     },
     {
+      "folder": "Deftones565@shiny_indicators",
+      "id": "shiny_indicators",
+      "title": "Shiny Indicators",
+      "author": "Deftones565",
+      "summary": "Visual indicators for shiny Pokémon.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "ART"
+      ],
+      "tags": [
+        "shiny",
+        "ui",
+        "indicators"
+      ],
+      "repo": "https://github.com/Deftones565/gen1recomp-mod-shiny-indicators",
+      "github": "Deftones565/gen1recomp-mod-shiny-indicators",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Deftones565@shiny_indicators/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "masterwebx@SHINY_POKEMON",
       "id": "SHINY_POKEMON",
       "title": "Shiny Pokemon",
@@ -2935,6 +4140,113 @@
       "profile": "content",
       "thumbnail": "data/mods/masterwebx@SHINY_POKEMON/thumbnail.png",
       "description_url": "data/mods/masterwebx@SHINY_POKEMON/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@special_stat_split",
+      "id": "special_stat_split",
+      "title": "Special Stat Split",
+      "author": "ZyranCZ",
+      "summary": "Splits SPECIAL into SPATK and SPDEF (Gen II+) and moves into physical/special categories (Gen IV+).",
+      "version": "2.5.1",
+      "categories": [
+        "BALANCE",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "stats",
+        "physical",
+        "special",
+        "balance",
+        "gen2",
+        "gen4"
+      ],
+      "repo": "https://github.com/ZyranCZ/Special-Stat-Split",
+      "github": "ZyranCZ/Special-Stat-Split",
+      "api": 2,
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@special_stat_split/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Gilles93@species_rebalance",
+      "id": "species_rebalance",
+      "title": "Species Rebalance",
+      "author": "Gilles93",
+      "summary": "Rebalances base stats of Pokémon species.",
+      "version": "1.0.0",
+      "categories": [
+        "BALANCE"
+      ],
+      "tags": [
+        "stats",
+        "balance",
+        "species"
+      ],
+      "repo": "https://github.com/Gilles93/Species-Rebalance",
+      "github": "Gilles93/Species-Rebalance",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Gilles93@species_rebalance/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "anxiousintrovert@stadium_battle_fx",
+      "id": "stadium_battle_fx",
+      "title": "Stadium Battle FX",
+      "author": "anxiousintrovert",
+      "summary": "Pokémon Stadium-style battle move effects extracted from the player's own cartridge data.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "AUDIO"
+      ],
+      "tags": [
+        "stadium",
+        "effects",
+        "battle",
+        "fx"
+      ],
+      "repo": "https://github.com/anxiousintrovert/StadiumBattleFX",
+      "github": "anxiousintrovert/StadiumBattleFX",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/anxiousintrovert@stadium_battle_fx/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "randyadr@stadium_model_viewer",
+      "id": "stadium_model_viewer",
+      "title": "Stadium Model Viewer for Pokédex",
+      "author": "randyadr",
+      "summary": "3D model viewer integrated into the Pokédex.",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "UI"
+      ],
+      "tags": [
+        "pokedex",
+        "3d",
+        "models",
+        "stadium"
+      ],
+      "repo": "https://github.com/randyadr/Stadium-Model-Viewer-for-Pokedex",
+      "github": "randyadr/Stadium-Model-Viewer-for-Pokedex",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/randyadr@stadium_model_viewer/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -2965,6 +4277,31 @@
       "automatic_version_check": true,
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@surround_audio/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Gilles93@stronger_trainers",
+      "id": "stronger_trainers",
+      "title": "Stronger Trainers",
+      "author": "Gilles93",
+      "summary": "Increases the strength and challenge of trainer battles.",
+      "version": "1.0.0",
+      "categories": [
+        "BALANCE",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "trainers",
+        "balance",
+        "difficulty"
+      ],
+      "repo": "https://github.com/Gilles93/Stronger-Trainers",
+      "github": "Gilles93/Stronger-Trainers",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Gilles93@stronger_trainers/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -3284,6 +4621,31 @@
       "update_check": "off"
     },
     {
+      "folder": "dburton95@toast_notifications",
+      "id": "toast_notifications",
+      "title": "Toast Notifications",
+      "author": "dburton95",
+      "summary": "Displays toast-style notifications in-game.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "notifications",
+        "ui",
+        "toast"
+      ],
+      "repo": "https://github.com/dburton95/toast-notifications",
+      "github": "dburton95/toast-notifications",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/dburton95@toast_notifications/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "FAFF0x@trade_evolution_fix",
       "id": "trade_evolution_fix",
       "title": "Trade Evolution Fix",
@@ -3421,6 +4783,58 @@
       "automatic_version_check": true,
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@trainer_rematch/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ZyranCZ@trainers_choose_lead",
+      "id": "trainers_choose_lead",
+      "title": "Trainers Let You Choose Lead Pokemon",
+      "author": "ZyranCZ",
+      "summary": "Lets you choose which party Pokémon to send out first against trainers instead of always using the first slot.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "battle",
+        "party",
+        "lead",
+        "qol"
+      ],
+      "repo": "https://github.com/ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon",
+      "github": "ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/ZyranCZ@trainers_choose_lead/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "piftee@typed_move_colors",
+      "id": "typed_move_colors",
+      "title": "Typed Move Colors",
+      "author": "piftee",
+      "summary": "Type-coloured move buttons in battles and menus.",
+      "version": "1.0.0",
+      "categories": [
+        "UI",
+        "ART"
+      ],
+      "tags": [
+        "moves",
+        "colors",
+        "types",
+        "ui"
+      ],
+      "repo": "https://github.com/piftee/gen1recomp-typed-move-colors",
+      "github": "piftee/gen1recomp-typed-move-colors",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/piftee@typed_move_colors/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -3659,6 +5073,31 @@
       "license": "MIT",
       "thumbnail": "data/mods/DavidSchuchert@VOXEL_DEX/thumbnail.png",
       "description_url": "data/mods/DavidSchuchert@VOXEL_DEX/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "last-swagger@voxel_characters",
+      "id": "voxel_characters",
+      "title": "Voxel Characters",
+      "author": "last-swagger",
+      "summary": "Extrudes Gen1Recomp overworld character sprites into voxel slabs. Companion for Dramatic Shape Voxel Mod.",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "voxel",
+        "3d",
+        "characters",
+        "overworld"
+      ],
+      "repo": "https://github.com/last-swagger/gen1recomp-voxel-characters",
+      "github": "last-swagger/gen1recomp-voxel-characters",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/last-swagger@voxel_characters/description.md",
       "latest": null,
       "update_check": "pending"
     },

@@ -1,0 +1,21 @@
+{
+  "id": "stadium_battle_fx",
+  "title": "Stadium Battle FX",
+  "author": "anxiousintrovert",
+  "summary": "Pok\u00e9mon Stadium-style battle move effects extracted from the player's own cartridge data.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "AUDIO"
+  ],
+  "tags": [
+    "stadium",
+    "effects",
+    "battle",
+    "fx"
+  ],
+  "repo": "https://github.com/anxiousintrovert/StadiumBattleFX",
+  "github": "anxiousintrovert/StadiumBattleFX",
+  "api": 2,
+  "profile": "content"
+}

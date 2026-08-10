@@ -1,0 +1,19 @@
+{
+  "id": "crystal",
+  "title": "Crystal Player Sprite",
+  "author": "dburton95",
+  "summary": "Crystal-style player sprite mod for Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "player",
+    "sprites",
+    "crystal"
+  ],
+  "repo": "https://github.com/dburton95/crystal",
+  "github": "dburton95/crystal",
+  "api": 2,
+  "profile": "content"
+}

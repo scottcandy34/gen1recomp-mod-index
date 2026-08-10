@@ -1,0 +1,21 @@
+{
+  "id": "typed_move_colors",
+  "title": "Typed Move Colors",
+  "author": "piftee",
+  "summary": "Type-coloured move buttons in battles and menus.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "ART"
+  ],
+  "tags": [
+    "moves",
+    "colors",
+    "types",
+    "ui"
+  ],
+  "repo": "https://github.com/piftee/gen1recomp-typed-move-colors",
+  "github": "piftee/gen1recomp-typed-move-colors",
+  "api": 2,
+  "profile": "content"
+}

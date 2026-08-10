@@ -1,0 +1,22 @@
+{
+  "id": "crystal_animated_sprites_with_shiny_visuals",
+  "title": "Crystal Animated Sprites with Shiny Visuals",
+  "author": "distilledorion-sketch",
+  "summary": "Crystal-style animated battle sprites, automatic shiny artwork, Gen 2-inspired shiny entrance with sparkle + cry, and full Johto support.",
+  "version": "1.5.0",
+  "categories": [
+    "ART",
+    "UI"
+  ],
+  "tags": [
+    "sprites",
+    "animated",
+    "crystal",
+    "shiny",
+    "art"
+  ],
+  "repo": "https://github.com/distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals",
+  "github": "distilledorion-sketch/crystal_animated_sprites_with_shiny_visuals",
+  "api": 2,
+  "profile": "content"
+}

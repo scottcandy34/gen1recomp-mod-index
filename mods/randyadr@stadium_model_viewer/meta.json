@@ -1,0 +1,21 @@
+{
+  "id": "stadium_model_viewer",
+  "title": "Stadium Model Viewer for Pok\u00e9dex",
+  "author": "randyadr",
+  "summary": "3D model viewer integrated into the Pok\u00e9dex.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "UI"
+  ],
+  "tags": [
+    "pokedex",
+    "3d",
+    "models",
+    "stadium"
+  ],
+  "repo": "https://github.com/randyadr/Stadium-Model-Viewer-for-Pokedex",
+  "github": "randyadr/Stadium-Model-Viewer-for-Pokedex",
+  "api": 2,
+  "profile": "content"
+}

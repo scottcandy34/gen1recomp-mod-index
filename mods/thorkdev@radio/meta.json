@@ -1,0 +1,20 @@
+{
+  "id": "radio",
+  "title": "Radio",
+  "author": "thorkdev",
+  "summary": "Adds a RADIO option to the START menu.",
+  "version": "1.0.0",
+  "categories": [
+    "AUDIO",
+    "QOL"
+  ],
+  "tags": [
+    "radio",
+    "music",
+    "start menu"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-radio",
+  "github": "thorkdev/gen1recomp-radio",
+  "api": 2,
+  "profile": "content"
+}

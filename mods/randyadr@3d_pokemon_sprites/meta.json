@@ -1,0 +1,21 @@
+{
+  "id": "3d_pokemon_sprites",
+  "title": "3D Pokemon Sprites",
+  "author": "randyadr",
+  "summary": "Converts Pok\u00e9mon sprites into 3D models for the overworld / Stadium-style presentation.",
+  "version": "0.1.56",
+  "categories": [
+    "ART",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "3d",
+    "sprites",
+    "models",
+    "stadium"
+  ],
+  "repo": "https://github.com/randyadr/3D-Pokemon-Sprites",
+  "github": "randyadr/3D-Pokemon-Sprites",
+  "api": 2,
+  "profile": "content"
+}

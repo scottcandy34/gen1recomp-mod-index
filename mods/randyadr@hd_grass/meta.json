@@ -1,0 +1,20 @@
+{
+  "id": "hd_grass",
+  "title": "HD Grass",
+  "author": "randyadr",
+  "summary": "Higher-resolution / improved grass tiles for the overworld.",
+  "version": "1.0.0",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "grass",
+    "tiles",
+    "art",
+    "hd"
+  ],
+  "repo": "https://github.com/randyadr/Gen1-Recomp-HD-Grass",
+  "github": "randyadr/Gen1-Recomp-HD-Grass",
+  "api": 2,
+  "profile": "content"
+}

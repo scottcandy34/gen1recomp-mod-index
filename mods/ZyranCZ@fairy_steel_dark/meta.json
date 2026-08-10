@@ -1,0 +1,26 @@
+{
+  "id": "fairy_steel_dark",
+  "title": "Fairy Steel Dark and Typing Charts",
+  "author": "ZyranCZ",
+  "summary": "Adds Fairy, Steel and Dark types. Compatible with Crystal 251. Supports Vanilla / Gen II / Gen VI type charts.",
+  "version": "1.2.2",
+  "categories": [
+    "BALANCE",
+    "CONTENT"
+  ],
+  "tags": [
+    "types",
+    "fairy",
+    "steel",
+    "dark",
+    "balance",
+    "crystal251"
+  ],
+  "repo": "https://github.com/ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts",
+  "github": "ZyranCZ/Fairy-Steel-Dark-and-Typing-Charts",
+  "api": 2,
+  "profile": "content",
+  "permissions": [
+    "engine_internals"
+  ]
+}

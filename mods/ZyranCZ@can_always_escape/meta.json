@@ -1,0 +1,21 @@
+{
+  "id": "can_always_escape",
+  "title": "Can Always Escape",
+  "author": "ZyranCZ",
+  "summary": "Always succeed at escaping from wild Pok\u00e9mon battles.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "escape",
+    "flee",
+    "qol",
+    "wild"
+  ],
+  "repo": "https://github.com/ZyranCZ/Can-Always-Escape",
+  "github": "ZyranCZ/Can-Always-Escape",
+  "api": 2,
+  "profile": "content"
+}

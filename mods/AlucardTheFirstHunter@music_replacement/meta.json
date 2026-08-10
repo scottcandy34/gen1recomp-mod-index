@@ -1,0 +1,20 @@
+{
+  "id": "music_replacement",
+  "title": "Music Replacement",
+  "author": "AlucardTheFirstHunter",
+  "summary": "Replaces most music and fanfares with tracks from Let's Go Pikachu/Eevee and FireRed/LeafGreen.",
+  "version": "1.0.0",
+  "categories": [
+    "AUDIO"
+  ],
+  "tags": [
+    "music",
+    "audio",
+    "lgpe",
+    "frlg"
+  ],
+  "repo": "https://github.com/AlucardTheFirstHunter/MusicReplacementMod",
+  "github": "AlucardTheFirstHunter/MusicReplacementMod",
+  "api": 2,
+  "profile": "content"
+}

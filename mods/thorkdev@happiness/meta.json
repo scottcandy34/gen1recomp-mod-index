@@ -1,0 +1,20 @@
+{
+  "id": "happiness",
+  "title": "Happiness",
+  "author": "thorkdev",
+  "summary": "Every caught Pok\u00e9mon tracks a hidden 0\u2013255 happiness value (not just Pikachu).",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "happiness",
+    "friendship",
+    "gen2"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-happiness",
+  "github": "thorkdev/gen1recomp-happiness",
+  "api": 2,
+  "profile": "content"
+}

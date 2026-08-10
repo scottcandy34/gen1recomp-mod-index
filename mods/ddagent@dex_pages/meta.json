@@ -1,0 +1,21 @@
+{
+  "id": "dex_pages",
+  "title": "Dex Pages",
+  "author": "ddagent",
+  "summary": "Extra Pok\u00e9dex pages: type matchups, catch odds, locations, level-up moves, TM/HM and evolution info.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "pokedex",
+    "stats",
+    "moves",
+    "ui"
+  ],
+  "repo": "https://github.com/ddagent/gen1recomp-dex-pages",
+  "github": "ddagent/gen1recomp-dex-pages",
+  "api": 2,
+  "profile": "content"
+}

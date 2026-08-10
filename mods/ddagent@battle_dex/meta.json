@@ -1,0 +1,20 @@
+{
+  "id": "battle_dex",
+  "title": "Battle Dex",
+  "author": "ddagent",
+  "summary": "In-battle Pok\u00e9dex access: SELECT reads the opponent; a DEX row in the party menu reads your own Pok\u00e9mon.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "pokedex",
+    "battle",
+    "ui"
+  ],
+  "repo": "https://github.com/ddagent/gen1recomp-battle-dex",
+  "github": "ddagent/gen1recomp-battle-dex",
+  "api": 2,
+  "profile": "content"
+}

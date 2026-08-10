@@ -1,0 +1,20 @@
+{
+  "id": "voxel_characters",
+  "title": "Voxel Characters",
+  "author": "last-swagger",
+  "summary": "Extrudes Gen1Recomp overworld character sprites into voxel slabs. Companion for Dramatic Shape Voxel Mod.",
+  "version": "1.0.0",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "voxel",
+    "3d",
+    "characters",
+    "overworld"
+  ],
+  "repo": "https://github.com/last-swagger/gen1recomp-voxel-characters",
+  "github": "last-swagger/gen1recomp-voxel-characters",
+  "api": 2,
+  "profile": "content"
+}

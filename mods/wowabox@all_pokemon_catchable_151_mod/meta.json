@@ -1,0 +1,22 @@
+{
+  "id": "all_pokemon_catchable_151_mod",
+  "title": "All Pokemon Catchable 151 Mod",
+  "author": "wowabox",
+  "summary": "Makes all 151 Kanto Pok\u00e9mon obtainable in a single playthrough without trading. Yellow support included.",
+  "version": "0.3.3",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "pokedex",
+    "catchable",
+    "151",
+    "no-trade",
+    "yellow"
+  ],
+  "repo": "https://github.com/wowabox/All_Pokemon_Catchable_151_Mod",
+  "github": "wowabox/All_Pokemon_Catchable_151_Mod",
+  "api": 2,
+  "profile": "content"
+}

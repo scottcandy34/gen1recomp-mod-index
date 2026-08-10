@@ -1,0 +1,19 @@
+{
+  "id": "species_rebalance",
+  "title": "Species Rebalance",
+  "author": "Gilles93",
+  "summary": "Rebalances base stats of Pok\u00e9mon species.",
+  "version": "1.0.0",
+  "categories": [
+    "BALANCE"
+  ],
+  "tags": [
+    "stats",
+    "balance",
+    "species"
+  ],
+  "repo": "https://github.com/Gilles93/Species-Rebalance",
+  "github": "Gilles93/Species-Rebalance",
+  "api": 2,
+  "profile": "content"
+}

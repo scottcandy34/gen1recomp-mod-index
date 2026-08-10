@@ -1,0 +1,22 @@
+{
+  "id": "crystal_251",
+  "title": "Crystal 251",
+  "author": "Deftones565",
+  "summary": "Expands Gen 1 with the full Crystal 251 Pok\u00e9mon roster and related mechanics.",
+  "version": "0.10.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY",
+    "TOTAL_CONVERSION"
+  ],
+  "tags": [
+    "crystal",
+    "251",
+    "johto",
+    "expansion"
+  ],
+  "repo": "https://github.com/Deftones565/gen1recomp-mod-crystal-251",
+  "github": "Deftones565/gen1recomp-mod-crystal-251",
+  "api": 2,
+  "profile": "overhaul"
+}

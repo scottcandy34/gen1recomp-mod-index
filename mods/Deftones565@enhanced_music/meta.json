@@ -1,0 +1,18 @@
+{
+  "id": "enhanced_music",
+  "title": "Enhanced Music",
+  "author": "Deftones565",
+  "summary": "Enhanced / replacement music tracks.",
+  "version": "1.0.0",
+  "categories": [
+    "AUDIO"
+  ],
+  "tags": [
+    "music",
+    "audio"
+  ],
+  "repo": "https://github.com/Deftones565/gen1recomp-mod-enhanced-music",
+  "github": "Deftones565/gen1recomp-mod-enhanced-music",
+  "api": 2,
+  "profile": "content"
+}

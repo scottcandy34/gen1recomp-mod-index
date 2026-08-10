@@ -1,0 +1,20 @@
+{
+  "id": "non_binary_mode",
+  "title": "Non-Binary Mode",
+  "author": "dburton95",
+  "summary": "Text/gender presentation mod for non-binary player identity.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "UI"
+  ],
+  "tags": [
+    "gender",
+    "text",
+    "non-binary"
+  ],
+  "repo": "https://github.com/dburton95/non-binary-mode",
+  "github": "dburton95/non-binary-mode",
+  "api": 2,
+  "profile": "content"
+}

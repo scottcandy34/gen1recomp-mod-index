@@ -1,0 +1,20 @@
+{
+  "id": "flying_overhaul",
+  "title": "Flying Overhaul",
+  "author": "Razor1993-Real",
+  "summary": "Makes Fly stop opening the town map. You climb onto the bird and freely fly across Kanto yourself.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "fly",
+    "overworld",
+    "free-fly"
+  ],
+  "repo": "https://github.com/Razor1993-Real/FlyingOverhaul",
+  "github": "Razor1993-Real/FlyingOverhaul",
+  "api": 2,
+  "profile": "content"
+}

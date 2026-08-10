@@ -1,0 +1,21 @@
+{
+  "id": "screen_effects",
+  "title": "Screen Effects",
+  "author": "thorkdev",
+  "summary": "CRT / film-grain look with scanlines, vignette, mild chromatic aberration and animated grain.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "UI"
+  ],
+  "tags": [
+    "crt",
+    "scanlines",
+    "visual",
+    "effects"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-screen-effects",
+  "github": "thorkdev/gen1recomp-screen-effects",
+  "api": 2,
+  "profile": "content"
+}

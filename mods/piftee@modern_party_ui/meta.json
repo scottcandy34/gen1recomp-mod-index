@@ -1,0 +1,21 @@
+{
+  "id": "modern_party_ui",
+  "title": "Modern Party UI",
+  "author": "piftee",
+  "summary": "Responsive modern party-screen UI for Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "party",
+    "ui",
+    "modern",
+    "responsive"
+  ],
+  "repo": "https://github.com/piftee/gen1recomp-modern-party-ui",
+  "github": "piftee/gen1recomp-modern-party-ui",
+  "api": 2,
+  "profile": "content"
+}

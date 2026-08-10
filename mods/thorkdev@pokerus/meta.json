@@ -1,0 +1,20 @@
+{
+  "id": "pokerus",
+  "title": "Pok\u00e9rus",
+  "author": "thorkdev",
+  "summary": "Rare Gen 2-style Pok\u00e9rus infection that can spread from wild battles.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "pokerus",
+    "gen2",
+    "status"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-pokerus",
+  "github": "thorkdev/gen1recomp-pokerus",
+  "api": 2,
+  "profile": "content"
+}

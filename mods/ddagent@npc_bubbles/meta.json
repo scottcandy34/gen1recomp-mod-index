@@ -1,0 +1,21 @@
+{
+  "id": "npc_bubbles",
+  "title": "NPC Bubbles",
+  "author": "ddagent",
+  "summary": "Shows a ! over NPCs that give items/rewards and a ? over ones that change the world state.",
+  "version": "2.3.9",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "npc",
+    "bubbles",
+    "ui",
+    "qol"
+  ],
+  "repo": "https://github.com/ddagent/gen1recomp-npc-bubbles",
+  "github": "ddagent/gen1recomp-npc-bubbles",
+  "api": 2,
+  "profile": "content"
+}

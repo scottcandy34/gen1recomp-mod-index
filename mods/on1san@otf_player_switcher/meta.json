@@ -1,0 +1,21 @@
+{
+  "id": "otf_player_switcher",
+  "title": "OTF Player Switcher",
+  "author": "on1san",
+  "summary": "Overworld on-the-fly player sprite switcher. Also supports Trainer Card and back sprite switching. PageUp/PageDown shortcuts.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "UI"
+  ],
+  "tags": [
+    "player",
+    "sprites",
+    "switcher",
+    "avatar"
+  ],
+  "repo": "https://github.com/on1san/otf-player-switcher",
+  "github": "on1san/otf-player-switcher",
+  "api": 2,
+  "profile": "content"
+}

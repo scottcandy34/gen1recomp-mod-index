@@ -1,0 +1,26 @@
+{
+  "id": "special_stat_split",
+  "title": "Special Stat Split",
+  "author": "ZyranCZ",
+  "summary": "Splits SPECIAL into SPATK and SPDEF (Gen II+) and moves into physical/special categories (Gen IV+).",
+  "version": "2.5.1",
+  "categories": [
+    "BALANCE",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "stats",
+    "physical",
+    "special",
+    "balance",
+    "gen2",
+    "gen4"
+  ],
+  "repo": "https://github.com/ZyranCZ/Special-Stat-Split",
+  "github": "ZyranCZ/Special-Stat-Split",
+  "api": 2,
+  "profile": "overhaul",
+  "permissions": [
+    "engine_internals"
+  ]
+}

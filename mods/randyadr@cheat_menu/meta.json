@@ -1,0 +1,20 @@
+{
+  "id": "cheat_menu",
+  "title": "Cheat Menu",
+  "author": "randyadr",
+  "summary": "In-game cheat menu for Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "TOOL",
+    "QOL"
+  ],
+  "tags": [
+    "cheats",
+    "debug",
+    "tool"
+  ],
+  "repo": "https://github.com/randyadr/Gen1-Cheat-Menu",
+  "github": "randyadr/Gen1-Cheat-Menu",
+  "api": 2,
+  "profile": "content"
+}

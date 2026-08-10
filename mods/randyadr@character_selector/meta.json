@@ -1,0 +1,20 @@
+{
+  "id": "character_selector",
+  "title": "Character Selector",
+  "author": "randyadr",
+  "summary": "Character / player sprite selector for Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "UI"
+  ],
+  "tags": [
+    "character",
+    "avatar",
+    "sprites"
+  ],
+  "repo": "https://github.com/randyadr/Gen1Recomp-Character-Selector",
+  "github": "randyadr/Gen1Recomp-Character-Selector",
+  "api": 2,
+  "profile": "content"
+}

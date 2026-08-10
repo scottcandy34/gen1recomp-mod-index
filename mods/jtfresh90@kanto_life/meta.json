@@ -1,0 +1,20 @@
+{
+  "id": "kanto_life",
+  "title": "Kanto Life Mod",
+  "author": "jtfresh90",
+  "summary": "NPC immersion and life-simulation style changes for Kanto.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "npc",
+    "immersion",
+    "life"
+  ],
+  "repo": "https://github.com/jtfresh90/Kanto-Life-Mod",
+  "github": "jtfresh90/Kanto-Life-Mod",
+  "api": 2,
+  "profile": "content"
+}

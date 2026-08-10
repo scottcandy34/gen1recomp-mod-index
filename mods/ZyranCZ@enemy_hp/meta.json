@@ -1,0 +1,21 @@
+{
+  "id": "enemy_hp",
+  "title": "Enemy HP",
+  "author": "ZyranCZ",
+  "summary": "Shows the enemy's current HP on the same line as their level in battle.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "battle",
+    "ui",
+    "hp",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/Enemy-HP",
+  "github": "ZyranCZ/Enemy-HP",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "battle_cinematics_stadium_camera",
+  "title": "Battle Cinematics Stadium Camera",
+  "author": "EnterPlayerOne",
+  "summary": "Standalone cinematic battle-camera system featuring authentic Pok\u00e9mon Stadium camera choreography and multiple backends.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "UI",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "camera",
+    "stadium",
+    "cinematics",
+    "battle"
+  ],
+  "repo": "https://github.com/EnterPlayerOne/Battle-Cinematics-Stadium-Camera",
+  "github": "EnterPlayerOne/Battle-Cinematics-Stadium-Camera",
+  "api": 2,
+  "profile": "content"
+}

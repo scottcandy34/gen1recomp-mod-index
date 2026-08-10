@@ -1,0 +1,21 @@
+{
+  "id": "move_category_preview",
+  "title": "Move Category Preview",
+  "author": "ZyranCZ",
+  "summary": "Replaces the TYPE label in the attack preview with PHYS/ or SPEC/ based on move category.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "moves",
+    "ui",
+    "physical",
+    "special"
+  ],
+  "repo": "https://github.com/ZyranCZ/Move-Category-Preview",
+  "github": "ZyranCZ/Move-Category-Preview",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "running_shoes",
+  "title": "Running Shoes",
+  "author": "thorkdev",
+  "summary": "Get running shoes from Mom. Configurable run speed and camera bob intensity.",
+  "version": "0.3.0",
+  "categories": [
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "running",
+    "shoes",
+    "movement",
+    "qol"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-running-shoes",
+  "github": "thorkdev/gen1recomp-running-shoes",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "shiny_indicators",
+  "title": "Shiny Indicators",
+  "author": "Deftones565",
+  "summary": "Visual indicators for shiny Pok\u00e9mon.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "ART"
+  ],
+  "tags": [
+    "shiny",
+    "ui",
+    "indicators"
+  ],
+  "repo": "https://github.com/Deftones565/gen1recomp-mod-shiny-indicators",
+  "github": "Deftones565/gen1recomp-mod-shiny-indicators",
+  "api": 2,
+  "profile": "content"
+}

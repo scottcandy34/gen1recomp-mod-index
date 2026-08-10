@@ -1,0 +1,20 @@
+{
+  "id": "move_type_fix",
+  "title": "Move Type Fix",
+  "author": "Gilles93",
+  "summary": "Corrects a few Gen 1 moves that had the wrong type (e.g. Gust, Karate Chop) to match later generations.",
+  "version": "1.0.0",
+  "categories": [
+    "BALANCE"
+  ],
+  "tags": [
+    "moves",
+    "types",
+    "balance",
+    "gen2"
+  ],
+  "repo": "https://github.com/Gilles93/Move-Type-Fix",
+  "github": "Gilles93/Move-Type-Fix",
+  "api": 2,
+  "profile": "content"
+}

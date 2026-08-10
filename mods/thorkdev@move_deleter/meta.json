@@ -1,0 +1,20 @@
+{
+  "id": "move_deleter",
+  "title": "Move Deleter",
+  "author": "thorkdev",
+  "summary": "Free NPC on the Celadon Mart roof who deletes any move (including HMs).",
+  "version": "1.0.0",
+  "categories": [
+    "QOL",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "move deleter",
+    "hm",
+    "qol"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-move-deleter",
+  "github": "thorkdev/gen1recomp-move-deleter",
+  "api": 2,
+  "profile": "content"
+}

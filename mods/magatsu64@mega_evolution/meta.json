@@ -1,0 +1,20 @@
+{
+  "id": "mega_evolution",
+  "title": "Mega Evolution",
+  "author": "magatsu64",
+  "summary": "Adds Mega Evolution support to Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "mega",
+    "evolution",
+    "gen6"
+  ],
+  "repo": "https://github.com/magatsu64/Gen1RecompMegaEvolution",
+  "github": "magatsu64/Gen1RecompMegaEvolution",
+  "api": 2,
+  "profile": "content"
+}

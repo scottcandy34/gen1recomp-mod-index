@@ -1,0 +1,20 @@
+{
+  "id": "roaming_events",
+  "title": "Roaming Events",
+  "author": "Deftones565",
+  "summary": "Adds roaming legendary / special event Pok\u00e9mon behavior.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "roaming",
+    "events",
+    "legendaries"
+  ],
+  "repo": "https://github.com/Deftones565/gen1recomp-mod-roaming-events",
+  "github": "Deftones565/gen1recomp-mod-roaming-events",
+  "api": 2,
+  "profile": "content"
+}

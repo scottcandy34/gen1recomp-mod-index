@@ -1,0 +1,21 @@
+{
+  "id": "trainers_choose_lead",
+  "title": "Trainers Let You Choose Lead Pokemon",
+  "author": "ZyranCZ",
+  "summary": "Lets you choose which party Pok\u00e9mon to send out first against trainers instead of always using the first slot.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "battle",
+    "party",
+    "lead",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon",
+  "github": "ZyranCZ/Trainers-Let-You-Choose-Lead-Pokemon",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stronger_trainers",
+  "title": "Stronger Trainers",
+  "author": "Gilles93",
+  "summary": "Increases the strength and challenge of trainer battles.",
+  "version": "1.0.0",
+  "categories": [
+    "BALANCE",
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "trainers",
+    "balance",
+    "difficulty"
+  ],
+  "repo": "https://github.com/Gilles93/Stronger-Trainers",
+  "github": "Gilles93/Stronger-Trainers",
+  "api": 2,
+  "profile": "content"
+}

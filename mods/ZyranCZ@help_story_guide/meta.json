@@ -1,0 +1,21 @@
+{
+  "id": "help_story_guide",
+  "title": "HELP Story Guide",
+  "author": "ZyranCZ",
+  "summary": "Adds a HELP option to the START menu that tells you what to do next in the story.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL",
+    "UI"
+  ],
+  "tags": [
+    "guide",
+    "story",
+    "help",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/HELP-Story-Guide",
+  "github": "ZyranCZ/HELP-Story-Guide",
+  "api": 2,
+  "profile": "content"
+}

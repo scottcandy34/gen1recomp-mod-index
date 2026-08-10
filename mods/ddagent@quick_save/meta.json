@@ -1,0 +1,19 @@
+{
+  "id": "quick_save",
+  "title": "Quick Save",
+  "author": "ddagent",
+  "summary": "Save from the field with one button instead of going through the START menu.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "tags": [
+    "save",
+    "quick",
+    "qol"
+  ],
+  "repo": "https://github.com/ddagent/gen1recomp-quick-save",
+  "github": "ddagent/gen1recomp-quick-save",
+  "api": 2,
+  "profile": "content"
+}

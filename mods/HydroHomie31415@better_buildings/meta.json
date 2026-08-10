@@ -1,0 +1,20 @@
+{
+  "id": "better_buildings",
+  "title": "Better Buildings",
+  "author": "HydroHomie31415",
+  "summary": "Improved building graphics and interiors.",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "CONTENT"
+  ],
+  "tags": [
+    "buildings",
+    "art",
+    "tiles"
+  ],
+  "repo": "https://github.com/HydroHomie31415/Better-Buildings",
+  "github": "HydroHomie31415/Better-Buildings",
+  "api": 2,
+  "profile": "content"
+}

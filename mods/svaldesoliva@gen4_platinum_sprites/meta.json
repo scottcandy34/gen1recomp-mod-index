@@ -1,0 +1,20 @@
+{
+  "id": "gen4_platinum_sprites",
+  "title": "Gen 4 Platinum Sprites",
+  "author": "svaldesoliva",
+  "summary": "Pok\u00e9mon Platinum battle sprites (including official Gen 4 shinies) for Gen1Recomp.",
+  "version": "1.0.0",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "sprites",
+    "platinum",
+    "gen4",
+    "shiny"
+  ],
+  "repo": "https://github.com/svaldesoliva/gen1recomp-gen4-platinum-sprites",
+  "github": "svaldesoliva/gen1recomp-gen4-platinum-sprites",
+  "api": 2,
+  "profile": "content"
+}

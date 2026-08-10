@@ -1,0 +1,24 @@
+{
+  "id": "evolve_in_battle",
+  "title": "Evolve in Battle",
+  "author": "ZyranCZ",
+  "summary": "Allows active and benched party Pok\u00e9mon to evolve during battle from EXP level-ups, Evolution Stones, and Rare Candy.",
+  "version": "1.0.2",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "evolution",
+    "battle",
+    "anime",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/Evolve-in-Battle",
+  "github": "ZyranCZ/Evolve-in-Battle",
+  "api": 2,
+  "profile": "content",
+  "permissions": [
+    "engine_internals"
+  ]
+}

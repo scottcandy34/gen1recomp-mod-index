@@ -1,0 +1,21 @@
+{
+  "id": "effective_markers",
+  "title": "Effective Markers",
+  "author": "thorkdev",
+  "summary": "Draws a small icon in the FIGHT menu showing the selected move's type effectiveness.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "moves",
+    "effectiveness",
+    "ui",
+    "battle"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-effective-markers",
+  "github": "thorkdev/gen1recomp-effective-markers",
+  "api": 2,
+  "profile": "content"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mystery_gift",
+  "title": "Mystery Gift",
+  "author": "thorkdev",
+  "summary": "Adds a MYSTERY GIFT row to the START menu.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "QOL"
+  ],
+  "tags": [
+    "mystery gift",
+    "start menu"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-mystery-gift",
+  "github": "thorkdev/gen1recomp-mystery-gift",
+  "api": 2,
+  "profile": "content"
+}

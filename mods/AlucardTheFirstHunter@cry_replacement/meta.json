@@ -1,0 +1,20 @@
+{
+  "id": "cry_replacement",
+  "title": "Cry Replacement",
+  "author": "AlucardTheFirstHunter",
+  "summary": "Replaces all 151 Pok\u00e9mon cries with anime and FireRed/LeafGreen versions. Toggleable in OPTIONS.",
+  "version": "1.0.0",
+  "categories": [
+    "AUDIO"
+  ],
+  "tags": [
+    "cries",
+    "audio",
+    "anime",
+    "frlg"
+  ],
+  "repo": "https://github.com/AlucardTheFirstHunter/CryReplacementMod",
+  "github": "AlucardTheFirstHunter/CryReplacementMod",
+  "api": 2,
+  "profile": "content"
+}

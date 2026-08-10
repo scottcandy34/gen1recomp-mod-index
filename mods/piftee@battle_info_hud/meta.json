@@ -1,0 +1,21 @@
+{
+  "id": "battle_info_hud",
+  "title": "Battle Info HUD",
+  "author": "piftee",
+  "summary": "Optional native battle HUD showing colour, EXP, caught status and level information.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "battle",
+    "hud",
+    "ui",
+    "info"
+  ],
+  "repo": "https://github.com/piftee/gen1recomp-battle-info-hud",
+  "github": "piftee/gen1recomp-battle-info-hud",
+  "api": 2,
+  "profile": "content"
+}

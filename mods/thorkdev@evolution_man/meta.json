@@ -1,0 +1,21 @@
+{
+  "id": "evolution_man",
+  "title": "Evolution Man",
+  "author": "thorkdev",
+  "summary": "An NPC who evolves trade-only Pok\u00e9mon for $4000 \u2014 no link cable required.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "evolution",
+    "trade",
+    "npc",
+    "qol"
+  ],
+  "repo": "https://github.com/thorkdev/gen1recomp-evolution-man",
+  "github": "thorkdev/gen1recomp-evolution-man",
+  "api": 2,
+  "profile": "content"
+}

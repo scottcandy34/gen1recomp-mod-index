@@ -1,0 +1,19 @@
+{
+  "id": "autofire",
+  "title": "Autofire",
+  "author": "ZyranCZ",
+  "summary": "Autofire support for the A and B buttons.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "tags": [
+    "autofire",
+    "input",
+    "qol"
+  ],
+  "repo": "https://github.com/ZyranCZ/autofire",
+  "github": "ZyranCZ/autofire",
+  "api": 2,
+  "profile": "content"
+}

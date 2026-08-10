@@ -1,0 +1,20 @@
+{
+  "id": "toast_notifications",
+  "title": "Toast Notifications",
+  "author": "dburton95",
+  "summary": "Displays toast-style notifications in-game.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "notifications",
+    "ui",
+    "toast"
+  ],
+  "repo": "https://github.com/dburton95/toast-notifications",
+  "github": "dburton95/toast-notifications",
+  "api": 2,
+  "profile": "content"
+}
