@@ -93,7 +93,7 @@
     "inmento@sound_effect_replacer": "0.5.1",
     "inmento@starter_picker": "1.1.2",
     "jherediagu@traduccion_es": "0.2.0",
-    "jtfresh90@kanto_life": "1.4.213",
+    "jtfresh90@kanto_life": "1.4.217",
     "liminal@no_exp_challenge": "1.0.1",
     "martin2844@blackjack_corner": "0.8.2",
     "masterwebx@ACCESS_PC_ANYWHERE": "1.0.1",
@@ -117,9 +117,9 @@
   },
   "held": {
     "AverageConsumer@kanto_gear": {
-      "version": "4.0.5",
-      "reason": "phone_display.lua:31 require(\"socket\") needs \"network\" in the entry's permissions",
-      "at": "2026-10-13T00:20:02.255Z"
+      "version": "4.1.0",
+      "reason": "phone/display.lua:31 require(\"socket\") needs \"network\" in the entry's permissions",
+      "at": "2026-10-13T22:25:45.371Z"
     }
   }
 }
